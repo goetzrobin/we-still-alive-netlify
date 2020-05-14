@@ -1,7 +1,5 @@
 import CMS from 'netlify-cms-app';
-// @ts-ignore
 import uploadcare from 'netlify-cms-media-library-uploadcare';
-// @ts-ignore
 import cloudinary from 'netlify-cms-media-library-cloudinary';
 
 import AboutPagePreview from './preview-templates/AboutPagePreview';
