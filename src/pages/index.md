@@ -5,7 +5,7 @@ image: /img/hero.jpg
 mainpitch:
   title: A Blog About What matters most.
   author:
-    name: Michele Ganzini
+    name: Michele Ganz
     title: CEO & Main Editor
     image: /img/friends.jpg
   description: >
