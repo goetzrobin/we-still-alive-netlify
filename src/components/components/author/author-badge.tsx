@@ -4,8 +4,8 @@ import {Image, PreviewImage} from '../../../models/Image';
 import PreviewCompatibleImage from '../../PreviewCompatibleImage';
 import {title} from '../header/menu/menu.module.scss';
 
-const AuthorBadge = (props: PropsWithoutRef<{ name: string; title: string, image: Image}>) => {
-    const imageInfo: PreviewImage = {alt: `${name} - ${title}`, childImageSharp: props.image && props.image.childImageSharp};
+const AuthorBadge = ({name = '', title = '', image}: PropsWithoutRef<{ name: string; title: string, image?: Image}>) => {
+    const imageInfo: PreviewImage = {alt: `${name} - ${title}`, childImageSharp: image && image.childImageSharp};
     return (
         <figure className={styles.firImageFigure}>
             <a className={styles.firImageover} rel="noopener" target="_blank" href="https://twitter.com/_davideast">
@@ -16,8 +16,8 @@ const AuthorBadge = (props: PropsWithoutRef<{ name: string; title: string, image
             </a>
 
             <figcaption>
-                <div className={styles.figAuthorFigureTitle}>{props.name}</div>
-                <div className={styles.figAuthorFigurePosition}>{props.title}</div>
+                <div className={styles.figAuthorFigureTitle}>{name}</div>
+                <div className={styles.figAuthorFigurePosition}>{title}</div>
             </figcaption>
         </figure>
     );
