@@ -1,0 +1,36 @@
+@import "../../../styles/breakpoints";
+@import "../../../styles/variables";
+
+.placeholder {
+  height: 50px;
+  @include respond-to($gt-sm) {
+    height: 200px;
+  }
+}
+
+.book {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  padding-left: 15px;
+  @include respond-to($gt-sm) {
+    flex-direction: row;
+    margin-top: 50px;
+  }
+
+  &-container {
+    margin: $default-spacing 0;
+  }
+  &-cover {
+    width: 100%;
+    @include respond-to($gt-sm) {
+      width: 60%;
+    }
+  }
+  &-description {
+    width: 100%;
+    @include respond-to($gt-sm) {
+      width: 40%;
+    }
+  }
+}

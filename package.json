@@ -6,7 +6,6 @@
   "dependencies": {
     "bulma": "^0.8.0",
     "gatsby-plugin-netlify": "^2.2.4",
-    "gatsby-plugin-purgecss": "^5.0.0",
     "gatsby-remark-copy-linked-files": "^2.2.4",
     "gatsby-remark-images": "^3.2.6",
     "gatsby-remark-relative-images": "^0.3.0",
@@ -23,7 +22,6 @@
     "gatsby-plugin-offline": "^3.2.1",
     "gatsby-plugin-react-helmet": "^3.3.1",
     "gatsby-plugin-react-svg": "^3.0.0",
-    "gatsby-plugin-sass": "^2.3.1",
     "gatsby-plugin-sharp": "^2.6.2",
     "gatsby-plugin-tslint": "0.0.2",
     "gatsby-plugin-typescript": "^2.4.2",
@@ -62,7 +60,6 @@
     "@types/react-redux": "^7.1.8",
     "@types/redux-form": "^8.2.5",
     "@types/uuid": "^7.0.3",
-    "gatsby-plugin-scss-typescript": "^4.0.10",
     "node-sass": "^4.14.1",
     "prettier": "^2.0.5",
     "tslint": "^6.1.2",
@@ -70,6 +67,7 @@
     "tslint-loader": "^3.5.4",
     "tslint-plugin-prettier": "^2.3.0",
     "tslint-react": "^5.0.0",
-    "typescript": "^3.8.3"
+    "typescript": "^3.8.3",
+    "gatsby-plugin-scss-typescript": "^4.0.10"
   }
 }

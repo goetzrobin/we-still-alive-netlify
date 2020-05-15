@@ -1,10 +1,14 @@
 import React from 'react';
-import {Link, graphql} from 'gatsby';
+import {graphql, Link} from 'gatsby';
+import _ from 'lodash';
 
-import Layout from '../components/Layout';
-import Features from '../components/Features';
-import BlogRoll from '../components/BlogRoll';
+import Layout from '../components/containers/layout/Layout';
 import {Image} from '../models/Image';
+import Intro from '../components/components/intro/intro';
+import SEO from '../components/containers/seo/seo';
+import Mission from '../components/components/mission/mission';
+import Posts from '../components/components/posts/posts';
+import Book from '../components/components/book/book';
 
 export const IndexPageTemplate = ({
                                       image,
@@ -12,136 +16,104 @@ export const IndexPageTemplate = ({
                                       heading,
                                       subheading,
                                       mainpitch,
-                                      description,
-                                      intro,
-                                  }: IndexPageTemplateProps) => (
-    <div>
-        <div
-            className="full-width-image margin-top-0"
-            style={{
-                backgroundImage: `url(${
-                    !!(image as Image).childImageSharp ? (image as Image).childImageSharp.fluid.src : image
-                })`,
-                backgroundPosition: `top left`,
-                backgroundAttachment: `fixed`,
-            }}
-        >
-            <div
-                style={{
-                    display: 'flex',
-                    height: '150px',
-                    lineHeight: '1',
-                    justifyContent: 'space-around',
-                    alignItems: 'left',
-                    flexDirection: 'column',
-                }}
+                                      mission,
+                                      featuredPost,
+                                      posts
+                                  }: IndexPageTemplateProps) => {
+
+    const accumulator: { images: (Image | string)[]; values: string[] } = {images: [], values: []};
+    const {values, images} = (mission.values || []).reduce(({images, values}, current) => ({
+        images: [...images, current.image],
+        values: [...values, current.text]
+    }), accumulator);
+
+    let tags: string[] = posts.reduce((accTags: string[], post) => [...accTags, ...post.node.frontmatter.tags], []);
+    tags = _.uniq(tags);
+    return (
+        <>
+            <SEO title={title}/>
+            <Intro heading={mainpitch.title}
+                   author={mainpitch.author}>
+                <p>{mainpitch.description}</p>
+            </Intro>
+            <Mission side={mission.side}
+                     mission={mission.heading}
+                     values={values} images={images}/>
+            <Intro
+                heading={featuredPost.frontmatter.title}
+                author={mainpitch.author}
+                imageFluid={(featuredPost.frontmatter.featuredimage as Image).childImageSharp.fluid}
             >
-                <h1
-                    className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-                    style={{
-                        boxShadow:
-                            'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-                        backgroundColor: 'rgb(255, 68, 0)',
-                        color: 'white',
-                        lineHeight: '1',
-                        padding: '0.25em',
-                    }}
-                >
-                    {title}
-                </h1>
-                <h3
-                    className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-                    style={{
-                        boxShadow:
-                            'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-                        backgroundColor: 'rgb(255, 68, 0)',
-                        color: 'white',
-                        lineHeight: '1',
-                        padding: '0.25em',
-                    }}
-                >
-                    {subheading}
-                </h3>
-            </div>
-        </div>
-        <section className="section section--gradient">
-            <div className="container">
-                <div className="section">
-                    <div className="columns">
-                        <div className="column is-10 is-offset-1">
-                            <div className="content">
-                                <div className="content">
-                                    <div className="tile">
-                                        <h1 className="title">{mainpitch.title}</h1>
-                                    </div>
-                                    <div className="tile">
-                                        <h3 className="subtitle">{mainpitch.description}</h3>
-                                    </div>
-                                </div>
-                                <div className="columns">
-                                    <div className="column is-12">
-                                        <h3 className="has-text-weight-semibold is-size-2">
-                                            {heading}
-                                        </h3>
-                                        <p>{description}</p>
-                                    </div>
-                                </div>
-                                <Features gridItems={intro.blurbs}/>
-                                <div className="columns">
-                                    <div className="column is-12 has-text-centered">
-                                        <Link className="btn" to="/products">
-                                            See all products
-                                        </Link>
-                                    </div>
-                                </div>
-                                <div className="column is-12">
-                                    <h3 className="has-text-weight-semibold is-size-2">
-                                        Latest stories
-                                    </h3>
-                                    <BlogRoll/>
-                                    <div className="column is-12 has-text-centered">
-                                        <Link className="btn" to="/blog">
-                                            Read more
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-);
+                <p>
+                    {featuredPost.frontmatter.description}
+                </p>
+               <Link style={{fontWeight: 600}} to={featuredPost.fields.slug}>READ MORE</Link>
+            </Intro>
+            <Posts side={'- Posts'} heading={'Thoughts & Posts'} posts={posts} categories={tags}/>
+            <Book heading="Of Who Was Me. Many. In Middle."/>
+        </>
+    );
+};
 
 interface IndexPageTemplateProps {
     image: Image | string;
     title: string;
     heading: string;
     subheading: string;
-    mainpitch: {
-        title: string;
-        description: string;
+    mainpitch: MainPitch;
+    mission: {
+        side: string;
+        heading: string;
+        values: { image: Image | string; text: string }[];
     };
-    description: string;
-    intro: {
-        blurbs: { image: Image | string; text: string }[];
-    };
+    featuredPost: {
+        id: string;
+        html: string;
+        fields: {
+            slug: string
+        }
+        frontmatter: {
+            date: string;
+            title: string;
+            featuredimage: Image | string;
+            description: string;
+            tags: string[];
+        }
+    }
+    posts: {
+        node: {
+            id: string;
+            html: string;
+            fields: {
+                slug: string
+            }
+            frontmatter: {
+                date: string;
+                title: string;
+                featuredimage: Image | string;
+                description: string;
+                tags: string[];
+            }
+        }
+    }[]
 }
 
 const IndexPage = ({data}: IndexPageProps) => {
+    const posts = data.allMarkdownRemark.edges;
+    const {node: featuredPost} = posts[0];
     const {frontmatter} = data.markdownRemark;
 
     return (
-        <Layout>
+        <Layout isLandingPage={true} image={frontmatter.image}>
             <IndexPageTemplate
                 image={frontmatter.image}
                 title={frontmatter.title}
                 heading={frontmatter.heading}
                 subheading={frontmatter.subheading}
                 mainpitch={frontmatter.mainpitch}
-                description={frontmatter.description}
-                intro={frontmatter.intro}
+                mission={frontmatter.mission}
+                featuredPost={featuredPost}
+                posts={posts}
             />
         </Layout>
     );
@@ -149,31 +121,79 @@ const IndexPage = ({data}: IndexPageProps) => {
 
 interface IndexPageProps {
     data: {
+        allMarkdownRemark: {
+            edges: {
+                node: {
+                    id: string;
+                    html: string;
+                    fields: {
+                        slug: string;
+                    }
+                    frontmatter: {
+                        date: string;
+                        title: string;
+                        featuredimage: Image | string;
+                        description: string;
+                        tags: string[];
+                    }
+                }
+            }[];
+        };
         markdownRemark: {
             frontmatter: {
                 title: string;
                 image: Image;
                 heading: string;
                 subheading: string;
-                mainpitch: {
-                    title: string;
-                    description: string;
-                }
+                mainpitch: MainPitch;
                 description: string;
-                intro: {
-                    blurbs: { image: Image | string; text: string }[];
+                mission: {
+                    values: { image: Image | string; text: string }[];
+                    side: string;
                     heading: string;
-                    description: string;
                 }
             },
         }
     };
 }
 
+interface MainPitch {
+    title: string;
+    description: string;
+    author: {
+        name: string;
+        title: string;
+        image: Image;
+    }
+}
+
 export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
+    allMarkdownRemark(sort: {order: DESC, fields: frontmatter___featuredpost}, filter: {frontmatter: {featuredpost: {}, templateKey: {eq: "blog-post"}}}) {
+        edges {
+          node {
+            id
+            fields {
+                slug
+            }
+            frontmatter {
+                date(formatString: "MMMM DD, YYYY")
+                title
+                description
+                tags
+                featuredimage {
+                    childImageSharp {
+                        fluid(maxWidth: 2048, quality: 100) {
+                          ...GatsbyImageSharpFluid
+                        }
+                      }
+                }
+            }
+          }
+        }
+      }
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
@@ -184,26 +204,34 @@ export const pageQuery = graphql`
             }
           }
         }
-        heading
-        subheading
         mainpitch {
           title
           description
-        }
-        description
-        intro {
-          blurbs {
+          author {
+            name
+            title
             image {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxWidth: 2048, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
               }
             }
-            text
-          }
+           }
+        }
+        mission {
+          side
           heading
-          description
+          values {
+            text
+            image {
+              childImageSharp {
+                fluid(maxWidth: 2048, quality: 80) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
         }
       }
     }

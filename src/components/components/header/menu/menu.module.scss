@@ -1,0 +1,100 @@
+@import "../../../../styles/variables";
+
+.menu {
+  position: fixed;
+  width: 100%;
+  max-width: 400px;
+  height: 100vh;
+  background: rgba(255,255,255, 0.95);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: $primary-text-color;
+
+  top: 0;
+  right: 0;
+  bottom: 0;
+
+
+  opacity: 1;
+  transition: all 0.4s ease-in-out;
+
+  &Body {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+  }
+
+  &.hidden {
+    right: -400px;
+    opacity: 0;
+  }
+
+  &-item {
+    padding-left: 0;
+    text-transform: uppercase;
+    font-size: 2rem;
+    line-height: 3rem;
+    list-style: none;
+    opacity: .7;
+    cursor: pointer;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+.close {
+  position: fixed;
+  top: 24px;
+  right: 26px;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  & svg {
+    height: 50px;
+    width: 50px;
+  }
+}
+
+
+.heading {
+  padding-top: 30px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.title {
+  max-width: 200px;
+  text-transform: uppercase;
+  margin: 3rem 1.45rem;
+}
+
+
+.navigation {
+  flex-grow: 2;
+}
+
+.social {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &-icon {
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: bold;
+    transition: border-bottom-color 0.4s;
+    border-bottom: 1px rgba(0,0,0,0) solid;
+    box-sizing: border-box;
+    &:hover {
+      border-bottom-color: $primary-text-color;
+    }
+  }
+}

@@ -1,0 +1,49 @@
+.fir-clickcircle {
+  height: 80px;
+  width: 80px;
+  border-radius: 100px;
+  cursor: pointer;
+}
+
+.fir-image-figure {
+  display: flex;
+  align-items: center;
+  margin: 0 0 40px;
+  position: relative;
+  text-decoration: none;
+}
+
+.fir-image-figure .caption, .fir-image-figure figcaption {
+  padding-left: 15px;
+}
+
+.fir-image-figure .fig-author-figure-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 32px;
+
+  color: black;
+
+}
+
+.fir-image-figure .fig-author-figure-position {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+
+  color: #222222;
+  opacity: 0.7;
+}
+
+.fir-imageover {
+  position: relative;
+  display: flex;
+
+  & > img {
+    margin-bottom: 0;
+  }
+}
+
+

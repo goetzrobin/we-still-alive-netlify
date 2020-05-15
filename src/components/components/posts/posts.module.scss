@@ -1,0 +1,63 @@
+@import "../../../styles/breakpoints";
+@import "../../../styles/variables";
+
+
+.top {
+  margin: 50px 0;
+  display: flex;
+  flex-direction: column;
+  @include respond-to($gt-sm) {
+    flex-direction: row;
+  }
+  &-left {
+    padding-left: 15px;
+    width: 100%;
+    @include respond-to($gt-sm) {
+      width: 50%;
+      padding-right: 15%;
+    }
+  }
+  &-right {
+    width: 100%;
+    @include respond-to($gt-sm) {
+      width: 50%;
+      padding-right: 15%;
+    }
+  }
+}
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  &-item {
+    padding: 10px 10px;
+    margin: 10px 10px;
+    @include respond-to($gt-sm) {
+      margin: 0;
+      min-width: 200px;
+    }
+    @include respond-to($gt-md) {
+      min-width: 240px;
+    }
+    &-link {
+      opacity: 0.7;
+      transition: opacity 0.4s;
+      cursor: pointer;
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  @include respond-to($gt-sm) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: normal;
+    flex-direction: row;
+  }
+}

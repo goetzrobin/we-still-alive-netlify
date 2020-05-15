@@ -1,0 +1,80 @@
+@import "../../../styles/breakpoints";
+@import "../../../styles/variables";
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  margin: $default-spacing 0;
+  @include respond-to($gt-sm) {
+    flex-direction: row;
+    padding: 50px;
+  }
+}
+
+.big-image {
+  display: block;
+  min-width: 150px;
+  width: 100%;
+
+  &-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    @include respond-to($gt-sm) {
+      width: 50%;
+      padding-bottom: 30px;
+    }
+  }
+}
+
+.big-graphic {
+  display: block;
+  min-width: 150px;
+  max-width: 300px;
+  width: 70%;
+  @include respond-to($gt-sm) {
+    width: 100%;
+  }
+
+  & > svg {
+    height: 100%;
+    width: 100%;
+  }
+
+  &-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px 80px;
+    width: 100%;
+
+    @include respond-to($gt-sm) {
+      width: 50%;
+      padding-bottom: 30px;
+    }
+  }
+}
+
+
+.text {
+  display: block;
+  width: 100%;
+  @include respond-to($gt-sm) {
+    width: 50%;
+    padding: 60px;
+  }
+
+  &-heading {
+      margin: 35px 0;
+  }
+  &-content {
+    margin-bottom: 30px;
+  }
+}
+
+.author {
+  display: block;
+}

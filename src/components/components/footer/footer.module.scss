@@ -1,0 +1,11 @@
+@import "../../../styles/variables";
+
+.footer {
+  background-color: $darkest-primary-color;
+  color: $light-primary-color;
+  justify-content: space-between;
+  display: flex;
+  height: $footer-height;
+  padding: 0 25px;
+  align-items: center;
+}

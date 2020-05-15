@@ -1,0 +1,131 @@
+@import "../../../styles/breakpoints";
+@import "../../../styles/variables";
+
+.mission {
+  display: block;
+  min-width: 150px;
+  width: 100%;
+  @include respond-to($gt-sm) {
+    width: 40%;
+  }
+  @include respond-to($gt-md) {
+    width: 50%;
+  }
+
+  & h1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: -1px;
+    color: #222222;
+  }
+
+  &-container {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    @include respond-to($gt-sm) {
+      flex-direction: row;
+      padding: 50px;
+    }
+  }
+
+}
+
+
+.values {
+  display: block;
+  width: 100%;
+  @include respond-to($gt-sm) {
+    width: 60%;
+    padding-left: 15%;
+  }
+  @include respond-to($gt-md) {
+    width: 50%;
+    padding-left: 15%;
+  }
+
+  &-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+
+    &-item {
+      padding: 20px 10px;
+      margin: 0 10px;
+      opacity: 0.7;
+      transition: opacity 0.4s;
+      &.active {
+        opacity: 1;
+      }
+      @include respond-to($gt-sm) {
+        margin: 0;
+        min-width: 200px;
+      }
+      @include respond-to($gt-md) {
+        min-width: 240px;
+      }
+    }
+  }
+}
+
+
+.pictures {
+  overflow: hidden;
+  margin-top: 50px;
+  & figure {
+    min-width: 1000%;
+    position: relative;
+    margin: 0;
+    left: 0;
+    transition: all 0.3s ease-in-out;
+  }
+}
+
+.picture {
+  height: 500px;
+  width: 825px;
+  margin: 0 50px;
+  float: left;
+  opacity: 0.4;
+  overflow: hidden;
+  transition: opacity 0.5s ease-in-out;
+  &.active {
+    opacity: 1;
+  }
+}
+
+
+.controls {
+  margin-top: 30px;
+  margin-bottom: $default-spacing;
+
+  &-button {
+    margin: 0 5px;
+    border: none;
+    border-radius: 0;
+    background: #C4C4C4;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    outline: none;
+    cursor: pointer;
+    &.disabled {
+      opacity: 0.3;
+      cursor: default;
+    }
+    &:focus {
+      outline: none;
+    }
+    & svg {
+      height: 40px;
+      width: 40px;
+      color: white;
+    }
+
+  }
+}
