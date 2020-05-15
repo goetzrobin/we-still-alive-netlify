@@ -41,7 +41,7 @@ const Menu = ({ title, open, onClose }: React.PropsWithoutRef<MenuProps>) => {
     <ul>
       <li className={styles.menuItem} onClick={linkClicked('/')}>HOME</li>
       <li className={styles.menuItem} onClick={linkClicked('/blog')}>BLOG</li>
-      <li className={styles.menuItem} onClick={linkClicked('/page-2')}>AUTHOR</li>
+      <li className={styles.menuItem} onClick={linkClicked('/about')}>AUTHOR</li>
     </ul>
     </nav>
     <div className={styles.social}>
