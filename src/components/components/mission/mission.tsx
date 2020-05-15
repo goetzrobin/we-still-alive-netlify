@@ -26,7 +26,7 @@ function buildImage(picture: any, index: number, dimensions: { width: number; he
 
 const Mission = ({ side = '', mission = '', values = [], images = [] }: PropsWithoutRef<MissionProps>) => {
   const [pictureShowing, movePicture] = useState(0);
-  const [windowWidth, updateWindowWidth] = useState(window.innerWidth);
+  const [windowWidth, updateWindowWidth] = useState(0);
 
   const moveToNext = () => movePicture(Math.min(pictureShowing + 1, pictureComponents.length - 1));
   const moveToBefore = () => movePicture(Math.max(pictureShowing - 1, 0));
@@ -45,6 +45,7 @@ const Mission = ({ side = '', mission = '', values = [], images = [] }: PropsWit
 
   useEffect(() => {
     const handleResize = () => updateWindowWidth((window.innerWidth));
+    handleResize();
     window.addEventListener('resize', handleResize);
     return () => window.removeEventListener('resize', handleResize);
   }, []);
