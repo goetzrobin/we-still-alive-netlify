@@ -7,7 +7,7 @@ mainpitch:
   author:
     name: Michele Ganzini
     title: CEO & Main Editor
-    image: /img/hero.jpg
+    image: /img/friends.jpg
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -15,18 +15,15 @@ mainpitch:
     profits are reinvested in their communities.
 mission:
   side: Our Mission
-  heading: We Still Alive is a place to share stories of what matters most. People. Love. Kindness. And coming together as one.
+  heading: We Still Alive is a place to share stories of what matters most.
+    People. Love. Kindness. And coming together as one.
   values:
-    - image: /img/hero.jpg
+    - image: /img/rain.jpg
       text: Friendship
-    - image: /img/hero.jpg
+    - image: /img/doctors.jpg
       text: Helping Others
-    - image: /img/hero.jpg
+    - image: /img/clothes.jpg
       text: Compassion
-    - image: /img/hero.jpg
-      text: Love
-    - image: /img/hero.jpg
-      text: Love
-    - image: /img/hero.jpg
+    - image: /img/friends.jpg
       text: Love
 ---
