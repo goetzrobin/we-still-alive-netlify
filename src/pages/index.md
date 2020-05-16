@@ -26,7 +26,7 @@ mission:
 
     It is the final and most important place prone to donate persons most in need opportunities never had before. 
   values:
-    - image: /img/img_3871.jpg
+    - image: /img/blog-index.jpg
       text: "Curiosity of personal life events "
     - image: /img/doctors.jpg
       text: Reading-Learning-Applying
