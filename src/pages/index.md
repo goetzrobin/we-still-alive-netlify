@@ -7,7 +7,7 @@ mainpitch:
   author:
     name: Michele Ganz
     title: Co-Founder & Main Editor
-    image: /img/img_3925.jpg
+    image: /img/hero.jpg
   description: "I am an undergraduate, Pre-Medical student at Thomas Jefferson
     University, the home of Sidney Kimmel Medical College with an interest in
     medicine and cardiothoracic-pediatric surgery. I seek solid reasons to
@@ -15,7 +15,7 @@ mainpitch:
     evidence that as well those arise from personal actual studies and
     experiences. "
 mission:
-  side: Mission
+  side: "Objective "
   heading: >-
     We Still Alive is a place that share stories.
 
@@ -27,10 +27,10 @@ mission:
 
     It is the final and most important place prone to donate persons most in need opportunities never had before. 
   values:
-    - image: /img/blog-index.jpg
+    - image: /img/hero.jpg
       text: "Curiosity of personal life events "
-    - image: /img/doctors.jpg
+    - image: /img/hero.jpg
       text: Reading-Learning-Applying
-    - image: /img/clothes.jpg
+    - image: /img/hero.jpg
       text: "Fund-raising "
 ---
