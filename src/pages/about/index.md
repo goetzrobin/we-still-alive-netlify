@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: Welcome and Meet My Page
+title: Welcome to My Page
 ---
 ### About the project - intentions and future objectives -
 
