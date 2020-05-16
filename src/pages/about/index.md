@@ -1,25 +1,16 @@
 ---
-templateKey: "about-page"
+templateKey: about-page
 path: /about
-title: About our values
+title: Welcome to Meet My Page
 ---
+### About the project - intentions and future objectives - 
 
-### Shade-grown coffee
+I am a last year undergraduate, Pre-Medical student living in Philadelphia, USA. I have recently started to appreciate science, especially my first three years as a university student in America. 
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+I started -WeStillAlive- to share perosnal experiences as well as facts that have companied me throughout my studies at TJU. 
 
-### Single origin
+When I first started to think about -WeStillAlive- I was reentering my country of origin, Italy, from Nairobi, Kenya. After about two months spent in Nairobi working in a private clinic in central Kawangware, one of Africas biggest slums in Kenya, I let grow the ideas in my head hardly provoked after time to finally come up with one to me unique purpose; to fund-raise and devote every single effort applied in this blog to people I sow not even able to afford a fifty cents vaccine. 
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Today with -WeStillAlive-, I want to share content of actuality and familiarity giving a scientific point of view to well understood subjects let sometimes lay into superficiality. My goal is to create a pleasant atmosphere in which one person interest and curiosity can come meet science and its educative objective. 
 
-### Sustainable farming
-
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Michele Ganz - Author
