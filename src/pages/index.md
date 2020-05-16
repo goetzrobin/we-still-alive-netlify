@@ -9,7 +9,7 @@ mainpitch:
     title: Co-Founder & Main Editor
     image: /img/hero.jpg
   description: "I am an undergraduate, Pre-Medical student at Thomas Jefferson
-    University, the home of Sidney Kimmel Medical College with an interest in
+    University, the home of Sidney Kimmel Medical College, with an interest in
     medicine and cardiothoracic-pediatric surgery. I seek solid reasons to
     better explain the every-day miracle of life through medical-related
     evidence that as well those arise from personal actual studies and
