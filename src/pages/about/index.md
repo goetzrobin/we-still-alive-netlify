@@ -15,7 +15,7 @@ To fund-raise and devote every single effort applied in this blog to people I so
 
 So, I started -WeStillAlive- to share personal experiences, such as the one in Nairobi, and facts, such as interesting topics in scolastic subjects, that have companied me throughout my studies at TJU, mantaining a global mindset with emphasis in science and medicine. 
 
-In summary, with -WeStillAlive-, I want to share content of actuality and familiarity giving a scientific point of view to well understood subjects let sometimes lay into superficiality. My goal is to create a pleasant atmosphere in which one person interest and curiosity can come meet science and its educative objective. With that, I want to engage people and science in a more global prospective, place to place from Nairoby to Italy back to Philadelphia where I study. 
+In summary, with -WeStillAlive-, I want to share content of actuality and familiarity giving a scientific point of view to well understood subjects let sometimes lay into superficiality. My goal is to create a pleasant atmosphere in which one person interest and curiosity can come meet science and its educative objective. With that, I want to engage people and science in a more global prospective, place to place from Nairobi to Italy back to Philadelphia where I study. 
 
 I truly belive science and medicine will be at need of a broader approach, a global approach that lastly can come together for the benefit of the public health environment. 
 
