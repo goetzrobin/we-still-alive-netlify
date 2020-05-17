@@ -15,6 +15,6 @@ So, I started -WeStillAlive- to share personal experiences, such as the one in N
 
 In summary, with -WeStillAlive-, I want to share the content of actuality and familiarity giving a scientific point of view to well-understood subjects let sometimes lay into superficiality. My goal is to create a pleasant atmosphere in which one person's interest and curiosity can come meet science and its educative objective. With that, I want to engage people and science from a more global perspective, a place to place from Nairobi to Italy back to Philadelphia where I study.
 
-I truly believe science and medicine will be at the need for a broader approach, a global approach that lastly can come together for the benefit of one public healthcare unit.
+I truly believe science and medicine will be at the need of a broader approach, a global system that can come together for the benefit of one public healthcare community.
 
 ### Michele Ganz - Author
