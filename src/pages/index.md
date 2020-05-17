@@ -7,7 +7,7 @@ mainpitch:
   author:
     name: Michele Ganz
     title: Co-Founder & Main Editor
-    image: /img/hero.jpg
+    image: /img/mich-ganz.jpg
   description: "I am an undergraduate, Pre-Medical student at Thomas Jefferson
     University, the home of Sidney Kimmel Medical College, with an interest in
     medicine and hopes of becoming a cardiothoracic surgeon. I seek solid
