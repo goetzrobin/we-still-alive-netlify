@@ -7,7 +7,7 @@ mainpitch:
   author:
     name: Michele Ganz
     title: Co-Founder & Main Editor
-    image: /img/mich-ganz.jpg
+    image: /img/m.jpg
   description: "I am an undergraduate, Pre-Medical student at Thomas Jefferson
     University, the home of Sidney Kimmel Medical College, with an interest in
     medicine and hopes of becoming a cardiothoracic surgeon. I seek solid
@@ -26,10 +26,10 @@ mission:
 
     It is the final and most important place prone to donate persons most in need opportunities never had before. 
   values:
-    - image: /img/mich-ganz.jpg
+    - image: /img/clothes.jpg
       text: "Curiosity of Interesting Life Events "
     - image: /img/data.jpg
       text: Reading-Learning-Applying
-    - image: /img/michele.jpg
+    - image: /img/mm.jpg
       text: "Fund-raising "
 ---
