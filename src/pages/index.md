@@ -29,7 +29,7 @@ mission:
   values:
     - image: /img/hero.jpg
       text: "Curiosity of personal life events "
-    - image: /img/hero.jpg
+    - image: /img/data.jpg
       text: Reading-Learning-Applying
     - image: /img/hero.jpg
       text: "Fund-raising "
