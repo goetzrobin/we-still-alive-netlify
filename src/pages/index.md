@@ -17,11 +17,11 @@ mainpitch:
 mission:
   side: "Objective "
   heading: >-
-    We Still Alive is a place that share stories of never-questioned situations
+    We Still Alive is a place that shares stories of never-questioned situations
     that scientifically that may find an explanation. 
 
 
-    It is a place for me useful to overcome the difficulty of studying material not yet enjoyed and fun. 
+    It is a place for me useful to overcome the difficulties of studying material not yet enjoyed and fun. 
 
 
     It is the final and most important place prone to donate persons most in need opportunities never had before. 
