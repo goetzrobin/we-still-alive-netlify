@@ -26,10 +26,10 @@ mission:
 
     It is the final and most important place prone to donate persons most in need opportunities never had before. 
   values:
-    - image: /img/hero.jpg
+    - image: /img/mich-ganz.jpg
       text: "Curiosity of Interesting Life Events "
     - image: /img/data.jpg
       text: Reading-Learning-Applying
-    - image: /img/hero.jpg
+    - image: /img/michele.jpg
       text: "Fund-raising "
 ---
