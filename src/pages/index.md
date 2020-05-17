@@ -11,9 +11,9 @@ mainpitch:
   description: "I am an undergraduate, Pre-Medical student at Thomas Jefferson
     University, the home of Sidney Kimmel Medical College, with an interest in
     medicine and hopes of becoming a cardiothoracic surgeon. I seek solid
-    reasons to better explain the every-day miracle of life through
-    medical-related evidence that as well those arise from personal actual
-    studies and experiences. "
+    reasons to better explain the beauty of the every-day unpredictability of
+    life through scientific medical-related evidence that as well those arise
+    from personal actual studies and experiences. "
 mission:
   side: "Objective "
   heading: >-
