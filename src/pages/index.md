@@ -17,8 +17,9 @@ mainpitch:
 mission:
   side: "Objective "
   heading: >-
-    We Still Alive is a place that shares stories of never-questioned situations
-    that scientifically that may find an explanation. 
+    We Still Alive is a place that shares a content of actuality of sometime
+    never-questioned subjects let lay into superficiality and gives a scientific
+    approach to that to try to answer them.
 
 
     It is a place for me useful to overcome the difficulties of studying material not yet enjoyed and fun. 
