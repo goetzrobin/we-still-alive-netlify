@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Welcome to My Page
 ---
-### About the project - intentions and future objectives -
+### About the Project - Intentions and Future Objectives -
 
 I am a 3-year undergraduate, Pre-Medical student living in Philadelphia, USA. I have recently started to appreciate science, especially these almost finished years as an undergraduate student.  
 
@@ -18,3 +18,11 @@ In summary, with -WeStillAlive-, I want to share the content of actuality and fa
 I truly believe science and medicine will be at the need of a broader approach, a global system that can come together for the benefit of one public healthcare community.
 
 ### Michele Ganz - Author
+
+I am from Italy. So you may assume things about me, such as that I drink coffee excessively, that I love pizza and pasta, that are simply true for any Italian person you have known or met some time ago. I have to say sincerely that I do not diverge much from that version of Italian individuals that you might have guessed. I like what is said to be of original Italian costume and tradition, but there is more than that that can be said about a person of my kind. 
+
+I indeed consider very interesting the science that surrounds us. I find compelling the every-day scientific novels made of those actions that set the basis of life on earth.
+To work or eat a sandwich or perform on a marathon race aiming for the first positions, those actions might trigger common muscle functions but everything that remains still hidden and specific, like the need to be biochemically perfect, is what fascinates me.
+
+
+I am Michele Ganz, a graduating 3/year student in Pre Medical studies whose hopes are to become a cardiothoracic surgeon. I love to play soccer, and it has been more than a hobby for me when I was younger. I am currently part of the soccer athletic program at the university where I currently study.
