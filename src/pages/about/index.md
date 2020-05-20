@@ -19,10 +19,8 @@ I truly believe science and medicine will be at the need of a broader approach, 
 
 ### Michele Ganz - Author
 
-I am from Italy. So you may assume things about me, such as that I drink coffee excessively, that I love pizza and pasta, that are simply true for any Italian person you have known or met some time ago. I have to say sincerely that I do not diverge much from that version of Italian individuals that you might have guessed. I like what is said to be of original Italian costume and tradition, but there is more than that that can be said about a person of my kind. 
+I am from Italy. So you may already assume things about me, such as that I drink coffee excessively, that I love pizza and pasta, that are simply true for any Italian person you have known or met some time ago. I have to say sincerely that I do not diverge much from that version of an Italian individual that you might have guessed. I like what is said about us, what seems to be of Italian origin, costume and tradition only, but there is more than that that can be said about a person of our kind. 
 
-I indeed consider very interesting the science that surrounds us. I find compelling the every-day scientific novels made of those actions that set the basis of life on earth.
-To work or eat a sandwich or perform on a marathon race aiming for the first positions, those actions might trigger common muscle functions but everything that remains still hidden and specific, like the need to be biochemically perfect, is what fascinates me.
+I indeed consider very interesting the science that surrounds us. I find compelling the every-day scientific novel made of those actions that set the basis of life on earth. To go up and down the stairs to your office or perform on a marathon race aiming for the first positions, those actions might trigger common muscle functions but everything that remains still hidden and specific, like the need to be biochemically perfect to result in the completion of this healthy action, is what fascinates me.
 
-
-I am Michele Ganz, a graduating 3/year student in Pre Medical studies whose hopes are to become a cardiothoracic surgeon. I love to play soccer, and it has been more than a hobby for me when I was younger. I am currently part of the soccer athletic program at the university where I currently study.
+I am Michele Ganz, a graduating 3/year student in Pre Medical studies whose hopes are to become a cardiothoracic surgeon. When I am not in my room studying, I love to play soccer, a sport that has been more than a hobby for me when I was younger. I am currently part of the soccer athletic program at the university where I currently study, indeed. I like also to explore the city of philadelphia and have fun with my friends.
