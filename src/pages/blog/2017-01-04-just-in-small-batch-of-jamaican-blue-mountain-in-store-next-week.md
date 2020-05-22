@@ -13,15 +13,13 @@ tags:
 ---
 *“I was running home, if that can somehow expressameanof safety and shelter, of food unmissed and worm infinite showers. I was running another race with time, feeling the ground beneathmy feet and it was different, softer;almostincomplete, and the ground wasthought to beold and wreaked. More genuine the air was running through my nose vestibulesinstead, and I thought I could win this racejustone more time:”*
 
-
-
 In November 2019, I was in Kenya, Kikuyu, when I first noticed that to learn how to run has a meaning that goes beyond an Olympic race or a major marathon win.
 
 For the first time, I got the chance to see the endurance and the power coexisting in the infinite physiological gesture of nature’sgift developedwithin a multicellular organism.Aswell,I could seethe nurture of that same organismover onesingle environmentraised up toenhance thechance to wina running raceover and over again.
 
 The population I got to know living in Kikuyu,the African Bantugroupthat populates the western area of Nairobi,remained silent of the fact that beyond a dramatic healthcaresetting that as welldefinedoneoffdeveloping socio-economic character, they belong to an ethnic group known for acomplex that is not socio-economicor healthcare related, buthas a word to say in genetics.
 
-The genotype ACTN3 known for thegeneticrelationto high athletic performancedue to its role in coding for a type II skeletal-muscle protein,thealfa-actin-3(1,2,3), gavea reason forthisethnicity to be part of a bigger picturethanoneunderestimatedcountrydownfall.
+The genotype ACTN3 known for thegeneticrelationto high athletic performancedue to its role in coding for a type II skeletal-muscle protein,thealfa-actinin-3(1,2,3), gavea reason forthisethnicity to be part of a bigger picturethanoneunderestimatedcountrydownfall.
 
 ThisspecificKenyan characteristics part of thiscentral Africanpopulationwas, andstillnot fully understood,studiedfor its genetic lean to favor highathleticismand influence onhighrunningexecutions(power and endurance).
 
@@ -57,10 +55,6 @@ The chances that genetics (theRR genotypecoded ACTN3, 577R) in the Bantu populat
 
 As Hippocrates noted, the requisitesforan individual’s“positive health,”that might here extend to one’s likelihood to succeed in power-oriented exhibitions,descend from factors that varies between heritability(genetic predisposition)and environment (food and exercise)(4).And it was agreed that what sustained by “the father of Medicine” might be the final formula of athletic success.
 
-
-
 *“As I was keeping to run down the hill to my home, I was looking around the surroundings. I could see no power and athletic-oriented skills, but I was blind to see the truth indeed.And one person running faster than me of course, said hello to me while becoming just onedot to me far away in front of sight.”*
-
-
 
 Michele Ganz
