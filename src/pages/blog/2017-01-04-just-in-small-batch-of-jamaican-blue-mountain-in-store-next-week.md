@@ -4,7 +4,7 @@ title: One Bantu Genotype ACTN3 Every other Generation
 date: 2017-01-04T15:04:10.000Z
 description: The genotype ACTN3 known for the genetic relation to high athletic
   performance due to its role in coding for a type II skeletal-muscle protein,
-  the alfa-actin-3 (1,2,3), gave a reason for this ethnicity to be part of a
+  the alfa-actinin-3 (1,2,3), gave a reason for this ethnicity to be part of a
   bigger picture than one underestimated country downfall.
 featuredpost: true
 featuredimage: /img/bb.jpg
