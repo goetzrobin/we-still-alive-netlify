@@ -12,8 +12,9 @@ mainpitch:
     University, the home of Sidney Kimmel Medical College, with an interest in
     medicine and hopes of becoming a cardiothoracic surgeon. I seek solid
     reasons to better explain the beauty of the every-day unpredictability of
-    life through scientific-related evidence that as well those arise from
-    studies at the university and the African experience in Kenya. "
+    life through scientific-related evidence that as well those arise from the
+    studies at Thomas Jefferson University and the African experience in Kikuyu,
+    Kenya. "
 mission:
   side: "Objective "
   heading: >-
