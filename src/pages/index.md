@@ -12,20 +12,20 @@ mainpitch:
     University, the home of Sidney Kimmel Medical College, with an interest in
     medicine and hopes of becoming a cardiothoracic surgeon. I seek solid
     reasons to better explain the beauty of the every-day unpredictability of
-    life through scientific medical-related evidence that as well those arise
-    from personal studies and the African experience in Kenya. "
+    life through scientific-related evidence that as well those arise from
+    studies at the university and the African experience in Kenya. "
 mission:
   side: "Objective "
   heading: >-
-    We Still Alive is a place that shares a content of actuality of sometime
-    questioned subjects let lay though into superficiality and gives a
-    scientific approach to that to try to answer them.
+    We Still Alive is a place that shares a content about African and not
+    actuality of questioned events that lay into superficiality and gives a
+    scientific approach to that to try to answer them. 
 
 
     It is a place for me useful to overcome the difficulties of studying material not yet enjoyed and fun. 
 
 
-    It is the final and most important place prone to donate persons most in need opportunities never had before. 
+    It is the final and most important place prone to donate opportunities never had before to persons most in need in Kenya. 
   values:
     - image: /img/ga.jpg
       text: "Curiosity of Interesting Life Events "
