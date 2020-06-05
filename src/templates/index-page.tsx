@@ -50,7 +50,7 @@ export const IndexPageTemplate = ({
                <Link style={{fontWeight: 600}} to={featuredPost.fields.slug}>READ MORE</Link>
             </Intro>
             <Posts side={'- Posts'} heading={'Thoughts & Posts'} posts={posts} categories={tags}/>
-            <Book heading="Of Who Was Me. Many. In Middle."/>
+            {/*<Book heading="Of Who Was Me. Many. In Middle."/>*/}
         </>
     );
 };

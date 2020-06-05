@@ -5,6 +5,8 @@ import {Helmet} from 'react-helmet';
 import {graphql, Link} from 'gatsby';
 import Layout from '../components/containers/layout/Layout';
 import Content, {HTMLContent} from '../components/Content';
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+import {Image} from '../models/Image';
 
 export const BlogPostTemplate = ({
                                      content,
@@ -13,6 +15,7 @@ export const BlogPostTemplate = ({
                                      tags,
                                      title,
                                      helmet,
+                                     image,
                                  }: BlogPostTemplateProps) => {
     const PostContent: any = contentComponent || Content;
 
@@ -25,6 +28,9 @@ export const BlogPostTemplate = ({
                         <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
                             {title}
                         </h1>
+                        <div style={{marginBottom: 30, width: '100%', maxHeight: 600, overflow: 'hidden'}}>
+                            <PreviewCompatibleImage imageInfo={{childImageSharp: image.childImageSharp}}/>
+                        </div>
                         <p>{description}</p>
                         <PostContent content={content}/>
                         {tags && tags.length ? (
@@ -53,11 +59,11 @@ interface BlogPostTemplateProps {
     title: string;
     helmet?: any;
     tags: string[];
+    image: Image;
 }
 
 const BlogPost = ({data}: BlogPostProps) => {
     const {markdownRemark: post} = data;
-
     return (
         <Layout>
             <BlogPostTemplate
@@ -75,6 +81,7 @@ const BlogPost = ({data}: BlogPostProps) => {
                 }
                 tags={post.frontmatter.tags}
                 title={post.frontmatter.title}
+                image={post.frontmatter.featuredimage}
             />
         </Layout>
     );
@@ -90,6 +97,7 @@ interface BlogPostProps {
                 title: string;
                 description: string;
                 tags: string[];
+                featuredimage: Image;
             }
         }
     };
@@ -107,6 +115,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredimage {
+            childImageSharp {
+                fluid(maxWidth: 2048, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+            }
+        }
       }
     }
   }
