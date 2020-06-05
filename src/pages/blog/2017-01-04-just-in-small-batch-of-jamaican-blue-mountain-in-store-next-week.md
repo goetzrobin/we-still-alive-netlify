@@ -59,3 +59,15 @@ The chances that genetics (the RR genotype coded ACTN3, 577R) in the Bantu popul
 *“As I was keeping to run down the hill to my home, I was looking around the surroundings. I could see no power and athletic-oriented skills, but I was blind to see the truth indeed. And one person running faster than me of course, said hello to me while becoming just one dot to me far away in front of sight.”*
 
 Michele Ganz
+
+
+
+**References**
+
+1. Guth, L. M., & Roth, S. M. (2013). Genetic influence on athletic performance.*Current opinion in pediatrics*,*25*(6), 653–658.<https://doi.org/10.1097/MOP.0b013e3283659087>
+
+2. Yang, N., MacArthur, D. G., Gulbin, J. P., Hahn, A. G., Beggs, A. H., Easteal, S., & North, K. (2003). ACTN3 genotype is associated with human elite athletic performance. American journal of human genetics, 73(3), 627–631.<https://doi.org/10.1086/377590>
+
+3. Scott, R. A., Irving, R., Irwin, L., Morrison, E., Charlton, V., Austin, K., Tladi, D., Deason, M., Headley, S. A., Kolkhorst, F. W., Yang, N., North, K., & Pitsiladis, Y. P. (2010). ACTN3 and ACE genotypes in elite Jamaican and US sprinters. Medicine and science in sports and exercise, 42(1), 107–112.<https://doi.org/10.1249/MSS.0b013e3181ae2bc0>
+
+4. Georgiades, E., Klissouras, V., Baulch, J., Wang, G., & Pitsiladis, Y. (2017). Why nature prevails over nurture in the making of the elite athlete. BMC genomics, 18(Suppl 8), 835.<https://doi.org/10.1186/s12864-017-4190-8>
