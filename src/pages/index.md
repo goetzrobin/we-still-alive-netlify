@@ -13,7 +13,7 @@ mainpitch:
     medicine and hopes of becoming a cardiothoracic surgeon. I seek solid
     reasons to better explain the beauty of the every-day unpredictability of
     life through scientific medical-related evidence that as well those arise
-    from personal actual studies and experiences. "
+    from personal studies and the African experience in Kenya. "
 mission:
   side: "Objective "
   heading: >-
