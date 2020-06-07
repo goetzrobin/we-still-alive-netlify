@@ -9,8 +9,9 @@ description: The genotype ACTN3 known for the genetic relation to high athletic
 featuredpost: true
 featuredimage: /img/bb.jpg
 tags:
-  - Athleticism
   - Genetics
+  - Sport
+  - Endurance
 ---
 *“I was running home, if that can somehow express a mean of safety and shelter, of food unmissed and worm infinite showers. I was running another race with time, feeling the ground beneath my feet and it was different, softer; almost incomplete, and the ground was thought to be old and wreaked. More genuine the air was running through my nose vestibules instead, and I thought I could win this race just one more time:”*
 
