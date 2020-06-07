@@ -3,7 +3,7 @@ templateKey: index-page
 title: We Still Alive
 image: /img/hero.jpg
 mainpitch:
-  title: With an Interesting Point of View
+  title: "About the Project and its Objectives "
   author:
     name: Michele Ganz
     title: Co-Founder & Main Editor
