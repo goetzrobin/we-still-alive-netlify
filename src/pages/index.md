@@ -18,12 +18,12 @@ mainpitch:
 mission:
   side: "Objective "
   heading: >-
-    We Still Alive is a place that shares a content about African and not
-    actuality of questioned events that lay into superficiality and gives a
-    scientific approach to that to try to answer them. 
+    We Still Alive is a place that shares the content of Kenyan actuality of
+    questioned events and thoughts that lay into superficiality and gives a
+    scientific approach to that to try to explain them. 
 
 
-    It is a place for me useful to overcome the difficulties of studying material not yet enjoyed and fun. 
+    It is a place useful to overcome the difficulties of studying material not yet enjoyed at the university level. 
 
 
     It is the final and most important place prone to donate opportunities never had before to persons most in need in Kenya. 
