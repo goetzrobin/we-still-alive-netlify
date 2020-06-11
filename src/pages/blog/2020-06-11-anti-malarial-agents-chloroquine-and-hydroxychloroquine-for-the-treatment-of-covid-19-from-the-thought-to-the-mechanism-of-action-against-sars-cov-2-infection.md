@@ -54,7 +54,7 @@ The studies offered, also by researches in French and China (Shanghai), have sho
 
 So, with \[7],It was surely possible to asses the highly astatic factors that takes place every day in the fight agains the COVID-19. With CQ and HCQ, there was given a chance here to dive into the specificity of the mechanism of action to find reasons to believe in a potential therapy to cure patients at mostly acute stages of the disease.
 
-However being found to directly interfere in the antiviral activity of SARS-CoV-2 and being a successful anti inflammatory agent to contribute therefore to attenuate the inflammatory response in vitro of the disease, more clinical trials and confirmations are required.
+However being found to directly interfere in the antiviral activity of SARS-CoV-2 and being a successful anti inflammatory agent to contribute to attenuate the inflammatory response in vitro of the disease, more clinical trials and confirmations are required.
 
 \------\
 Observations through researches highlighted in this text have suggested that the action ofHCQ and CQ can appear to be different in certain aspect \[5]. It is important to remind the readers that, as the references on chloroquine and hydroxychloroquine used in this text may be confused by you as they may apply to certain action and categories or not. 
