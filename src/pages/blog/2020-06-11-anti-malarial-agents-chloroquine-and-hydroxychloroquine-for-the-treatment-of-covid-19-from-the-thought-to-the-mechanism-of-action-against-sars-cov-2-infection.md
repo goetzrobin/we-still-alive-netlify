@@ -18,7 +18,7 @@ description: >-
 
   Also, due to the discourse being involved with newspaper all around the world for one President of the United States’s statement in support of HCQ against SARS-CoV-2, a “game changer” sustained by him [1], it is intended here to address the debate enunciated above and to give clarity to the developing research of chloroquine, and its derivative HCQ, used in the fight against COVID-19 [1].
 featuredpost: true
-featuredimage: /img/12.png
+featuredimage: /img/blog-index.jpg
 tags:
   - Therapy
 ---
