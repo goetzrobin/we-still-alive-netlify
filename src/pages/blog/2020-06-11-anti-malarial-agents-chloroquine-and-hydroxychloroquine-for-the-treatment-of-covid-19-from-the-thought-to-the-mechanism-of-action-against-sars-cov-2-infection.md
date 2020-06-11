@@ -24,9 +24,7 @@ tags:
 ---
 “And I could see with my eyes, when I was working in Kawangware,one of the biggest slum area in Kenya, many sick people diagnose with the malaria disease coming into the clinic. Helpless. Hopeless. There were no signs of frustration, unhappiness, of pain the behavior shown was silent to their same breath just one step away from sorrow”
 
-Malaria is a leading cause of morbidity and mortality in Kenya \[2], according to the Kenya Demographic and Health Survey released in 2014, and these words sound dramatic to me more than ever as they come down to lay on papers.
-
-However, the entire Kenya area is not the only African region struck by this deadly disease. To date, malaria has reached a global-scale impact, and that was suggested by the rising of deaths caused by the parasite each year all around the world (Southeast Asia, Oceania, South Americaalso)\[3,4].
+Malaria is a leading cause of morbidity and mortality in Kenya \[2], according to the Kenya Demographic and Health Survey released in 2014. However, the entire Kenya area is not the only African region struck by this deadly disease. To date, malaria has reached a global-scale impact, and that was suggested by the rising of deaths caused by the parasite each year all around the world (Southeast Asia, Oceania, South Americaalso)\[3,4].
 
 The parasite known as *Plasmodium falciparum (*the parasite that causes the malaria disease)is the only one in the position to significantly cause a risk of death to the person infected, as the parasite invade erythrocytes (the red blood cells) in the blood stream host and produces parasitemias (the presence of parasite in the blood).
 
@@ -62,7 +60,5 @@ However being found to directly interfere in the antiviral activity of SARS-CoV-
 Observations through researches highlighted in this text have suggested that the action ofHCQ and CQ can appear to be different in certain aspect \[5]. It is important to remind the readers that, as the references on chloroquine and hydroxychloroquine used in this text may be confused by you as they may apply to certain action and categories or not. 
 
 It is to be highlighted also that readings provided as references in this text vary in dates received, revised, and published. So, it must be understood that the enunciated above data may change over time and therefore contradict certain hypothesis that were made  in this brief article .
-
-
 
 Michele Ganz
