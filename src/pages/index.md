@@ -18,9 +18,9 @@ mainpitch:
 mission:
   side: "Objective "
   heading: >-
-    We Still Alive is a place that shares the content of Kenyan actuality of
-    questioned events and thoughts that lay into superficiality and gives a
-    scientific approach to that to try to explain them. 
+    We Still Alive, a Charity-intended website that shares the content of Kenyan
+    actuality of questioned events and thoughts that lay into superficiality and
+    gives a scientific approach to that to try to explain them. 
 
 
     It is a place useful to overcome the difficulties of studying material not yet enjoyed at the university level. 
