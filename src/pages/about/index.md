@@ -13,7 +13,9 @@ After about two months spent in Nairobi working in a private clinic in central K
 
 So, I started -WeStillAlive- to share personal experiences, such as the one in Nairobi, and facts, such as interesting topics in scholastic subjects, that have companied me throughout my studies at TJU, maintaining a global mindset with an emphasis in science and medicine.
 
-In summary, with -WeStillAlive-, I want to share the content of actuality and familiarity giving a scientific point of view to well-understood subjects let sometimes lay into superficiality. My goal is to create a pleasant atmosphere in which one person's interest and curiosity can come meet science and its educative objective. With that, I want to engage people and science from a more global perspective, a place to place approach that goes from Nairobi to Italy back to Philadelphia where I currently study.
+In summary, with -WeStillAlive-, I want to share the content of actuality and familiarity giving a scientific point of view to well-understood subjects let sometimes lay into superficiality. My goal is to create a pleasant atmosphere in which one person's interest and curiosity can come meet science and its educative objective. With that, I want to engage people and science from a more global perspective, a place to place approach that goes from Nairobi to Italy back to Philadelphia where I currently study. 
+
+We still alive is a Charity-Leaned website whose intentions are to involve many interested-in-science individuals and devote their attention and help to the people most in need in the area of Nairobi, Kenya.  
 
 I truly believe science and medicine will be at the need of a broader approach, a global system that can come together for the benefit of one public healthcare community.
 
