@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: "Anti-malarial Agents Chloroquine and Hydroxychloroquine for the
-  Treatment of COVID-19: The Broader Approach to the Information From the
-  Thought To the Mechanism of Action against SARS-CoV-2 infection"
+  Treatment of COVID-19: From the Thought To the Mechanism of Action against
+  SARS-CoV-2 infection"
 date: 2020-07-03T12:42:17.432Z
 description: >-
   Recent studies disclosed at the beginning of March of this year had seemed to
