@@ -19,6 +19,7 @@ tags:
   - Therapy
   - Antimalarial efficacy
   - Chloroquine
+  - COVID-19
 ---
 “And I could see with my eyes, when I was working in Kawangware, one of the biggest slum areas in Kenya, many sick people diagnosed with the malaria disease coming into the clinic. There were no signs of frustration, unhappiness, of pain the behavior shown was silent to their same breath just one step away from sorrow.”
 
