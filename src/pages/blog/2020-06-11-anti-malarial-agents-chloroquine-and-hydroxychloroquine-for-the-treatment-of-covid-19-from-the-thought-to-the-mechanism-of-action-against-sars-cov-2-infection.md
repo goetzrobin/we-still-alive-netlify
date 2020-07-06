@@ -6,13 +6,11 @@ title: "Anti-malarial Agents Chloroquine and Hydroxychloroquine for the
 date: 2020-07-03T12:42:17.432Z
 description: >-
   Recent studies disclosed at the beginning of March of this year had seemed to
-  recognize the mechanism of Chloroquine (CQ) and one of its derivative
-  Hydroxychloroquine (HCQ) as potential candidates for the successful treatment
-  against SARS-CoV-2 infection.
+  recognize the mechanism of Chloroquine (CQ), the drug most prone to succeed in
+  the fight against the malaria disease as well, as potential candidates for the
+  successful treatment against SARS-CoV-2 infection.
 
-  Over time, the discourse upon which the debate has arisen from Chloroquine being one of the agents by definition, most prone to succeed in the fight against the malaria disease. Its potential to successfully win the fight against the COVID-19 disease additionally was recently on everyone’s lips.
-
-  It is intended here to address the debate enunciated above and to give clarity to the developing research of chloroquine used in the fight against COVID-19 [1].
+  It is intended here to address the mechanism of CQ applied to the treatment of the malaria disease and to give clarity to the developing research of CQ used in the fight against COVID-19.
 featuredpost: true
 featuredimage: /img/12.png
 tags:
