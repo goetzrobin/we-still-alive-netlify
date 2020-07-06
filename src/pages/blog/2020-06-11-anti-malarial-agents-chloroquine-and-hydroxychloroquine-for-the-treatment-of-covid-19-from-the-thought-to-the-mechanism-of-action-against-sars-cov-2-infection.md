@@ -17,7 +17,8 @@ featuredpost: true
 featuredimage: /img/12.png
 tags:
   - Therapy
-  - ""
+  - Antimalarial efficacy
+  - Chloroquine
 ---
 “And I could see with my eyes, when I was working in Kawangware, one of the biggest slum areas in Kenya, many sick people diagnosed with the malaria disease coming into the clinic. There were no signs of frustration, unhappiness, of pain the behavior shown was silent to their same breath just one step away from sorrow.”
 
@@ -57,15 +58,29 @@ To give one last information from the National Institute of Health research agai
 
 Remdesivir is the latest antiviral agent recommended by the NIH for the treatment of COVID-19 in hospitalized patients which suffer from specific conditions (aggravated stage of the disease).
 
-
 “Today far away from what can be seen in that clinic just outside of Kawangware, I have much to think of. The conditions I could see patients with malaria were a life-changing event, to me. As I think of it I remind myself of the virus we all struggle with at this point. I do see frustration, unhappiness, and pain. I see sorrow this time also, but I find peace in the memories I still have in my head of what today’s feelings are about in the faces of who I saw in Kawangware back at that time.”
-
-
 
 \----- Observations through researches highlighted in this text have suggested that the action of HCQ and CQ can appear to be different in certain aspects \[5]. It is important to remind the readers that, as the references on chloroquine and hydroxychloroquine used in this text may be easily confused as they may apply to certain actions and categories and not.
 It should also be noted that the readings provided as references in this text vary in dates received, revised, and published. So, it must be understood that the enunciated above information may vary over time and therefore contradict certain hypotheses made in this brief article.-----
 
-
-
-
 Michele Ganz
+
+
+
+References
+
+1. Ariana Eunjung Cha, L. M. G. (2020, May 22). Antimalarial drug touted by President Trump is linked to increased risk of death in coronavirus patients, study says.*The Washington Post*.https://www.washingtonpost.com/health/2020/05/22/hydroxychloroquine-coronavirus-study/.
+
+2. Kenya National Bureau of Statistics, Ministry of Health, National AIDS Control Council, Kenya Medical Research Institute, National Council for Population and Development, The DHS Program, ICF International.(December 2014).*Kenya Demographic and Health Survey*.*<https://dhsprogram.com/pubs/pdf/fr308/fr308.pdf>*
+
+3. Schlesinger, P. H., Krogstad, D. J., & Herwaldt, B. L. (1988). Antimalarial agents: mechanisms of action. *Antimicrobial agents and chemotherapy*,*32*(6), 793–798. <https://doi.org/10.1128/aac.32.6.793>
+
+4. Yeo, S., Liu, D., Kim, H.S. *et al.*Anti-malarial effect of novel chloroquine derivatives as agents for the treatment of malaria. *Malar J*16, 80 (2017). https://doi.org/10.1186/s12936-017-1725-z
+
+5. Liu, J., Cao, R., Xu, M., Wang, X., Zhang, H., Hu, H., Li, Y., Hu, Z., Zhong, W., & Wang, M. (2020). Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro. *Cell discovery*,*6*, 16. https://doi.org/10.1038/s41421-020-0156-0
+
+6. Touret, F., & de Lamballerie, X. (2020). Of chloroquine and COVID-19.*Antiviral research*,*177*, 104762. https://doi.org/10.1016/j.antiviral.2020.104762
+
+7. Geleris, J., Al., E., Author AffiliationsFrom the Divisions of General Medicine, Others, E. J. R. and, Nolen, L., Others, M. K. and, & J. H. Beigel and Others. (2020, June 18). *Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19: NEJM*. https://www.nejm.org/doi/full/10.1056/NEJMoa2012410.
+
+8. *(Last updated June 16, 2020) - National Institutes of Health*. https://files.covid19treatmentguidelines.nih.gov/guidelines/section/section_36.pdf.
