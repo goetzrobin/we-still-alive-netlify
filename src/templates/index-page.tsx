@@ -104,7 +104,7 @@ interface IndexPageTemplateProps {
         }
     }[];
     charities: {
-        charities: { image: Image | string; description: string, name: string }[];
+        charities: { image: Image | string; description: string, name: string, url: string }[];
         title: string;
         intro: string;
     };
@@ -167,7 +167,7 @@ interface IndexPageProps {
                     heading: string;
                 }
                 charities: {
-                    charities: { image: Image | string; description: string, name: string }[];
+                    charities: { image: Image | string; description: string, name: string, url: string }[];
                     title: string;
                     intro: string;
                 }
@@ -264,6 +264,7 @@ export const pageQuery = graphql`
             charities {
               name
               description
+              url
               image {
                 childImageSharp {
                    fluid(maxWidth: 2048, quality: 80) {

@@ -32,6 +32,7 @@ charities:
   charities:
     - image: /img/ga.jpg
       name: Doctors in Africa
+      url: https://www.msf.org/donate
       description: >-
         ### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by
         Cicero in 45 BC

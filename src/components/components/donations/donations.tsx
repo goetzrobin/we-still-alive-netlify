@@ -8,6 +8,7 @@ interface DonationsProps {
     heading: string;
     intro: string;
     charities: {
+        url: string
         name: string;
         description: string;
         image: string | Image;
@@ -28,7 +29,7 @@ const Donations = ({heading = '', intro = '', charities = []}: PropsWithoutRef<D
                             <PreviewCompatibleImage imageClass={styles.selectionImage} imageInfo={{image: currentSelection.image}}/>
                             <HTMLContent className="" content={currentSelection.description}/>
                         </div>
-                      <a href="https://www.google.com" target="_blank"><button className={`btn ${styles.selectionButton}`}>Donate Now</button></a>
+                      <a href={currentSelection.url} target="_blank"><button className={`btn ${styles.selectionButton}`}>Donate Now</button></a>
                       <div className="clearfix"/>
                     </div>
                     <div className={styles.donationsSelection}>
