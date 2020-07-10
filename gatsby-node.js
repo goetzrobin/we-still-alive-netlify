@@ -100,7 +100,6 @@ function createNodeFieldForList(createNodeField, node, sectionName, listName, te
                     .processSync(listItem[textKey])
                     .toString(),
             );
-            console.log(value);
 
             createNodeField({
                 name: listName + 'Html',
