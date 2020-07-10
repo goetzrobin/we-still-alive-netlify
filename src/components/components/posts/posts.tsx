@@ -30,7 +30,6 @@ const Posts = ({ side = '', heading = '', posts = [], categories = ['Friendship'
 
   return (
     <>
-      <div className="label">{side}</div>
       <div className={styles.top}>
         <div className={styles.topLeft}>
           <h1>{heading}</h1>

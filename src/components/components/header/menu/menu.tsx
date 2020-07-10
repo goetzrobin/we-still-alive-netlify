@@ -42,6 +42,10 @@ const Menu = ({ title, open, onClose }: React.PropsWithoutRef<MenuProps>) => {
       <li className={styles.menuItem} onClick={linkClicked('/')}>HOME</li>
       <li className={styles.menuItem} onClick={linkClicked('/blog')}>BLOG</li>
       <li className={styles.menuItem} onClick={linkClicked('/about')}>AUTHOR</li>
+      <li className={styles.menuItem} onClick={linkClicked('/blog')}>OBJECTIVE</li>
+      <li className={styles.menuItem} onClick={linkClicked('/about')}>KENYA</li>
+      <li className={styles.menuItem} onClick={linkClicked('/about')}>PICTURES</li>
+      <li className={styles.menuItem} onClick={linkClicked('/about')}>FUNDRAISING</li>
     </ul>
     </nav>
     <div className={styles.social}>

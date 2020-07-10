@@ -2,6 +2,8 @@ const _ = require('lodash');
 const path = require('path');
 const {createFilePath} = require('gatsby-source-filesystem');
 const {fmImagesToRelative} = require('gatsby-remark-relative-images');
+const remark = require('remark');
+const remarkHTML = require('remark-html');
 
 exports.createPages = ({actions, graphql}) => {
     const {createPage} = actions;
@@ -75,13 +77,36 @@ exports.createPages = ({actions, graphql}) => {
 exports.onCreateNode = ({node, actions, getNode}) => {
     const {createNodeField} = actions;
     fmImagesToRelative(node); // convert image paths for gatsby images
-
+    createNodeFieldForList(createNodeField, node, 'charities', 'charities', 'description');
     if (node.internal.type === `MarkdownRemark`) {
         const value = createFilePath({node, getNode});
         createNodeField({
             name: `slug`,
             node,
             value,
-        })
+        });
+    }
+};
+
+
+function createNodeFieldForList(createNodeField, node, sectionName, listName, textKey) {
+    if (node && node.frontmatter) {
+        const section = node.frontmatter[sectionName];
+        const list = section && section[listName];
+        if (list) {
+            const value = list.map(listItem =>
+                remark()
+                    .use(remarkHTML)
+                    .processSync(listItem[textKey])
+                    .toString(),
+            );
+            console.log(value);
+
+            createNodeField({
+                name: listName + 'Html',
+                node,
+                value,
+            });
+        }
     }
 }

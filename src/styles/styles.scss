@@ -1,4 +1,6 @@
 @import "variables";
+@import "author";
+@import "blog";
 
 body {
   background-color: $background-color;
@@ -56,6 +58,22 @@ input {
   }
 }
 
+.btn {
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  border: none;
+  background: none;
+  &:focus {
+    outline: none;
+  }
+  &:disabled {
+    cursor: default;
+  }
+}
 .btn-icon {
   padding: 10px;
   cursor: pointer;

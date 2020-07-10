@@ -2,7 +2,6 @@ import React, {PropsWithoutRef} from 'react';
 import * as styles from './author-badge.module.scss';
 import {Image, PreviewImage} from '../../../models/Image';
 import PreviewCompatibleImage from '../../PreviewCompatibleImage';
-import {title} from '../header/menu/menu.module.scss';
 
 const AuthorBadge = ({name = '', title = '', image}: PropsWithoutRef<{ name: string; title: string, image?: Image}>) => {
     const imageInfo: PreviewImage = {alt: `${name} - ${title}`, childImageSharp: image && image.childImageSharp};

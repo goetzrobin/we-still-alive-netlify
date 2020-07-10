@@ -1,14 +1,27 @@
 @import "../../../styles/breakpoints";
 @import "../../../styles/variables";
 
+.main-title {
+  text-align: center;
+  margin: 30px;
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
 .intro {
-  display: flex;
-  flex-direction: column;
-  padding: 30px;
-  margin: $default-spacing 0;
+  margin: 50px 30px;
   @include respond-to($gt-sm) {
-    flex-direction: row;
-    padding: 50px;
+    margin: $default-spacing 0;
+  }
+
+  &-container {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    @include respond-to($gt-sm) {
+      flex-direction: row;
+      padding: 50px;
+    }
   }
 }
 
@@ -68,8 +81,9 @@
   }
 
   &-heading {
-      margin: 35px 0;
+    margin: 35px 0;
   }
+
   &-content {
     margin-bottom: 30px;
   }

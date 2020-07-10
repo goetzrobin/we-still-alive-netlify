@@ -2,6 +2,7 @@
 templateKey: about-page
 path: /about
 title: Welcome to My Page
+image: /img/m.jpg
 ---
 ### About the Content and Future Objectives
 

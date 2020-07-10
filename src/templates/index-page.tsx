@@ -9,6 +9,7 @@ import SEO from '../components/containers/seo/seo';
 import Mission from '../components/components/mission/mission';
 import Posts from '../components/components/posts/posts';
 import Book from '../components/components/book/book';
+import Donations from '../components/components/donations/donations';
 
 export const IndexPageTemplate = ({
                                       image,
@@ -18,7 +19,8 @@ export const IndexPageTemplate = ({
                                       mainpitch,
                                       mission,
                                       featuredPost,
-                                      posts
+                                      posts,
+                                      charities
                                   }: IndexPageTemplateProps) => {
 
     const accumulator: { images: (Image | string)[]; values: string[] } = {images: [], values: []};
@@ -32,14 +34,17 @@ export const IndexPageTemplate = ({
     return (
         <>
             <SEO title={title}/>
-            <Intro heading={mainpitch.title}
-                   author={mainpitch.author}>
+            <Intro
+                mainTitle={true}
+                title={title} heading={mainpitch.title}
+                author={mainpitch.author}>
                 <p>{mainpitch.description}</p>
             </Intro>
             <Mission side={mission.side}
                      mission={mission.heading}
                      values={values} images={images}/>
             <Intro
+                title="The Blog"
                 heading={featuredPost.frontmatter.title}
                 author={mainpitch.author}
                 imageFluid={(featuredPost.frontmatter.featuredimage as Image).childImageSharp.fluid}
@@ -47,10 +52,12 @@ export const IndexPageTemplate = ({
                 <p>
                     {featuredPost.frontmatter.description}
                 </p>
-               <Link style={{fontWeight: 600}} to={featuredPost.fields.slug}>READ MORE</Link>
+                <Link style={{fontWeight: 600}} to={featuredPost.fields.slug}>READ MORE</Link>
             </Intro>
             <Posts side={'- Posts'} heading={'Thoughts & Posts'} posts={posts} categories={tags}/>
-            {/*<Book heading="Of Who Was Me. Many. In Middle."/>*/}
+            <Donations heading={charities.title}
+                       intro={charities.intro}
+                       charities={charities.charities}/>
         </>
     );
 };
@@ -79,7 +86,7 @@ interface IndexPageTemplateProps {
             description: string;
             tags: string[];
         }
-    }
+    };
     posts: {
         node: {
             id: string;
@@ -95,14 +102,20 @@ interface IndexPageTemplateProps {
                 tags: string[];
             }
         }
-    }[]
+    }[];
+    charities: {
+        charities: { image: Image | string; description: string, name: string }[];
+        title: string;
+        intro: string;
+    };
 }
 
 const IndexPage = ({data}: IndexPageProps) => {
     const posts = data.allMarkdownRemark.edges;
     const {node: featuredPost} = posts[0];
     const {frontmatter} = data.markdownRemark;
-
+    const charitiesArray = frontmatter.charities.charities.map((charity, index) => ({...charity, description: data.markdownRemark.fields.charitiesHtml[index]}));
+    const mappedCharities = {...frontmatter.charities, charities: charitiesArray};
     return (
         <Layout isLandingPage={true} image={frontmatter.image}>
             <IndexPageTemplate
@@ -114,6 +127,7 @@ const IndexPage = ({data}: IndexPageProps) => {
                 mission={frontmatter.mission}
                 featuredPost={featuredPost}
                 posts={posts}
+                charities={mappedCharities}
             />
         </Layout>
     );
@@ -152,7 +166,15 @@ interface IndexPageProps {
                     side: string;
                     heading: string;
                 }
+                charities: {
+                    charities: { image: Image | string; description: string, name: string }[];
+                    title: string;
+                    intro: string;
+                }
             },
+            fields: {
+                charitiesHtml: string[];
+            }
         }
     };
 }
@@ -195,6 +217,9 @@ export const pageQuery = graphql`
         }
       }
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+      fields {
+        charitiesHtml
+      }
       frontmatter {
         title
         image {
@@ -233,6 +258,21 @@ export const pageQuery = graphql`
             }
           }
         }
+        charities {
+            intro
+            title
+            charities {
+              name
+              description
+              image {
+                childImageSharp {
+                   fluid(maxWidth: 2048, quality: 80) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+            }
+          }
       }
     }
   }

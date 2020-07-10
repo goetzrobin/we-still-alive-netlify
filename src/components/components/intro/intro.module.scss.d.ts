@@ -1,4 +1,6 @@
+export const mainTitle: string;
 export const intro: string;
+export const introContainer: string;
 export const bigImage: string;
 export const bigImageWrapper: string;
 export const bigGraphic: string;

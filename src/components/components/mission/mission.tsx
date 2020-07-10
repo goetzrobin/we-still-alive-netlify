@@ -51,10 +51,10 @@ const Mission = ({ side = '', mission = '', values = [], images = [] }: PropsWit
   }, []);
   return (
     <>
-      <div className="label">{side}</div>
       <div className={styles.missionContainer}>
         <div className={styles.mission}>
-          <h1>{mission}</h1>
+          <h1>{side}</h1>
+          <p>{mission}</p>
         </div>
         <div className={styles.values}>
           <ul className={styles.valuesList}>

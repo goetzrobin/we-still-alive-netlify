@@ -25,13 +25,13 @@ export const BlogPostTemplate = ({
             <div className="container content">
                 <div className="columns">
                     <div className="column is-10 is-offset-1">
-                        <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                        <h1>
                             {title}
                         </h1>
+                        <p className="blog-desc">{description}</p>
                         <div style={{marginBottom: 30, width: '100%', maxHeight: 600, overflow: 'hidden'}}>
                             <PreviewCompatibleImage imageInfo={{childImageSharp: image.childImageSharp}}/>
                         </div>
-                        <p>{description}</p>
                         <PostContent content={content}/>
                         {tags && tags.length ? (
                             <div style={{marginTop: `4rem`}}>
