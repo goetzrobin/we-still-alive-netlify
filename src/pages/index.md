@@ -27,16 +27,28 @@ mission:
     - image: /img/mm.jpg
       text: "Fund-raising "
 charities:
-  title: To who we donate
-  intro: Testing Donations
+  title: To Who We Aim to Donate
+  intro: Donations
   charities:
-    - image: /img/ga.jpg
-      name: Doctors in Africa
+    - image: /img/cc.jpg
+      name: "Sanitation - Sewers System and Toilets Quality Enhancement "
       url: https://www.msf.org/donate
       description: >-
-        ### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by
-        Cicero in 45 BC
+        ### Kawangware: To Help The Rooted Need of an Impoverished Sanitation  
 
 
-        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+        Kawangware, a residential area in Nairobi, Kenya, is to knowledge and experience a place of fortune and uncertainty.
+
+
+        The population living in Kawangware, with studied and supported evidence, seems to be particularly prone to be successful in sports related to high velocities, such as long-distance run competitions. Genetics and environmental (diet) factors present in this area play an important role in determining the success of these athletes. Olympians but also marathon famous winners in running events are known to be coming from this area, indeed.
+
+
+        By reminding me of what seems to be unique and astonishing of this population, however, I have to unwillingly say that this attraction shades into uncertainty and sadness also. Kawangware is indeed one of the most impoverished locations of the whole African continent. Sanitation in this area is highly inadequate and hardly meets the basic standards of hygiene and water security.
+
+
+        Kawangware is to date the location where WeStillAlive is mostly prone to consider to help and sustainably provide support to the population in need. Toilets and sewering systems are required and the difficult solution to the issue.
+
+
+        Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation, change is no more a need but a possibility, and perhaps more beauty would be seen instead and more competition could win again challenges no more sport-related but of living concerns.
+  url: https://donate.doctorswithoutborders.org/onetime.cfm
 ---
