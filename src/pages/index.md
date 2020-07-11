@@ -29,7 +29,7 @@ mission:
       text: "Fund-raising "
 charities:
   title: To Who We Aim to Donate
-  intro: Donations
+  intro: "We Believe "
   charities:
     - image: /img/cc.jpg
       name: "Sanitation - Sewers System and Toilets Quality Enhancement "
