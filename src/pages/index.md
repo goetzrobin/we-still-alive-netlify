@@ -23,7 +23,7 @@ mission:
     promotes the interest and mission to help the area of Kawangware, Kenya, to
     get better sanitation – sewers system and toilets – so to shorten the span
     of common infections, accelerate recovery, prevent early death, and extend
-    people lifespan.
+    this population lifespan.
   values:
     - image: /img/mm.jpg
       text: "Fund-raising "
