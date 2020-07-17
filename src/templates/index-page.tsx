@@ -118,7 +118,7 @@ const IndexPage = ({data}: IndexPageProps) => {
                 mainpitch={frontmatter.mainpitch}
                 mission={frontmatter.mission}
                 aboutBlog={frontmatter.aboutBlog}
-                blog={frontmatter.blog}
+                blog={frontmatter.indexBlog}
                 posts={posts}
                 charities={mappedCharities}
             />
@@ -163,7 +163,7 @@ interface IndexPageProps {
                     heading: string;
                     text: string;
                 };
-                blog: {
+                indexBlog: {
                     heading: string;
                 };
                 charities: {
@@ -269,7 +269,7 @@ export const pageQuery = graphql`
              }
            }
         }
-        blog {
+        indexBlog {
           heading
         }
         charities {
