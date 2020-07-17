@@ -72,11 +72,11 @@ However, it is fascinating to see how the human brain responds every time the ac
 With this reading, it is seen that romantic love is a motivation. It is a need. It is an addition, perhaps. However, romantic love arose through history from antecedent individual’s experiences and concerns, as it is shown to have similarities in the way the biological mechanism of attraction work in mammalians.
 Lately, science has stepped in and debated the since then undebatable topic of romantic love. So as far as science is concerned, romantic love is not a simple infatuation, but a mixture of collective neuroendocrinological activities, of properties that perfectly fits within one individual’s lifespan to make sure love dwells. 
 
-– It has to be remembered that the situation, which described above was the linkage of scientific reasoning with love, can vary between the partner who is male and the one who isfemale.--
+– It has to be remembered that the situation, which described above was the linkage of scientific reasoning with love, can vary between the partner who is male and the one who is female. -
 
+Michele Ganz 
 
-
-References
+**References**
 
 \[1] Fisher, H. E., Xu, X., Aron, A., & Brown, L. L. (2016). Intense, Passionate, Romantic Love: A Natural Addiction? How the Fields That Investigate Romance and Substance Abuse Can Inform Each Other. Frontiers in psychology, 7, 687. https://doi.org/10.3389/fpsyg.2016.00687
 
