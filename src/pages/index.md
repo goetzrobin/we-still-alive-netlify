@@ -33,7 +33,7 @@ aboutBlog:
     promotes the interest and mission to help the area of Kawangware, Kenya, to
     get better sanitation.
   image: /img/cc.jpg
-blog:
+indexBlog:
   heading: Thoughts & Posts
 charities:
   title: To Who We Aim to Donate
