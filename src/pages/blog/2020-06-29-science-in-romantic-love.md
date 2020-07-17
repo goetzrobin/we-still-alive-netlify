@@ -74,6 +74,8 @@ Lately, science has stepped in and debated the since then undebatable topic of r
 
 – It has to be remembered that the situation, which described above was the linkage of scientific reasoning with love, can vary between the partner who is male and the one who isfemale.--
 
+
+
 References
 
 \[1] Fisher, H. E., Xu, X., Aron, A., & Brown, L. L. (2016). Intense, Passionate, Romantic Love: A Natural Addiction? How the Fields That Investigate Romance and Substance Abuse Can Inform Each Other. Frontiers in psychology, 7, 687. https://doi.org/10.3389/fpsyg.2016.00687
