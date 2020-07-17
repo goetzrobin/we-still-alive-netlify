@@ -6,6 +6,13 @@
     margin: $default-spacing 0;
   }
 
+  &-intro {
+    padding: 30px;
+    @include respond-to($gt-sm) {
+      padding: 50px;
+    }
+  }
+
   display: flex;
   flex-direction: column-reverse;
   @include respond-to($gt-sm) {

@@ -2,7 +2,6 @@ import React, {PropsWithChildren} from 'react';
 import useSiteMetadata from '../../SiteMetadata';
 import Header from '../../components/header/header';
 import Footer from '../../components/footer/footer';
-import HeroImage from '../../components/image/hero-image';
 
 import './layout.css';
 import '../../../styles/styles.scss';
@@ -17,7 +16,7 @@ const Layout = ({children, isLandingPage = false, image}: PropsWithChildren<{ is
     const imageInfo: PreviewImage = {image};
 
     const generateLandingImage: () => any = () => {
-        return isLandingPage && image ? <div className={styles.mainImage}><PreviewCompatibleImage imageInfo={imageInfo}/></div> : null;
+        return isLandingPage && image ? <div className={styles.mainImageContainer}><PreviewCompatibleImage imageClass={styles.mainImage} imageInfo={imageInfo}/></div> : null;
     };
 
     return (

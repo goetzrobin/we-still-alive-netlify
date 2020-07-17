@@ -1,6 +1,5 @@
 import React from 'react';
 import {Link, graphql, StaticQuery} from 'gatsby';
-import PreviewCompatibleImage from './PreviewCompatibleImage';
 import {Image} from '../models/Image';
 import Posts from './components/posts/posts';
 import _ from 'lodash';
@@ -14,7 +13,7 @@ class BlogRoll extends React.Component<BlogRollProps> {
 
         return (
             <>
-                <Posts side={'Posts'} heading={'The Blog'} posts={posts} categories={tags}/>
+                <Posts fullWidthFilters={true} postSize="medium" heading={'The Blog'} posts={posts} categories={tags}/>
             </>
         );
     }
@@ -33,12 +32,12 @@ interface BlogRollData {
 
 interface BlogRollNode {
     node: {
-        excerpt: string
         id: string;
         fields: {
             slug: string
         }
         frontmatter: {
+            description: string
             title: string
             templateKey: string;
             date: string;
@@ -61,12 +60,12 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
               id
               fields {
                 slug
               }
               frontmatter {
+                description
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")

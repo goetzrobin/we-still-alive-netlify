@@ -10,6 +10,9 @@ import Mission from '../components/components/mission/mission';
 import Posts from '../components/components/posts/posts';
 import Book from '../components/components/book/book';
 import Donations from '../components/components/donations/donations';
+import AboutBlog from '../components/components/about-blog/about-blog';
+import {aboutBlog} from '../components/components/about-blog/about-blog.module.scss';
+import * as styles from '../components/components/intro/intro.module.scss';
 
 export const IndexPageTemplate = ({
                                       image,
@@ -18,7 +21,8 @@ export const IndexPageTemplate = ({
                                       subheading,
                                       mainpitch,
                                       mission,
-                                      featuredPost,
+                                      aboutBlog,
+                                      blog,
                                       posts,
                                       charities
                                   }: IndexPageTemplateProps) => {
@@ -34,6 +38,7 @@ export const IndexPageTemplate = ({
     return (
         <>
             <SEO title={title}/>
+            {title ? <h1 className="index-header-title">{title}</h1> : null}
             <Intro
                 mainTitle={true}
                 title={title} heading={mainpitch.title}
@@ -43,18 +48,12 @@ export const IndexPageTemplate = ({
             <Mission side={mission.side}
                      mission={mission.heading}
                      values={values} images={images}/>
-            <Intro
-                title="The Blog"
-                heading={featuredPost.frontmatter.title}
+            <AboutBlog
+                heading={aboutBlog.heading}
+                text={aboutBlog.text}
                 author={mainpitch.author}
-                imageFluid={(featuredPost.frontmatter.featuredimage as Image).childImageSharp.fluid}
-            >
-                <p>
-                    {featuredPost.frontmatter.description}
-                </p>
-                <Link style={{fontWeight: 600}} to={featuredPost.fields.slug}>READ MORE</Link>
-            </Intro>
-            <Posts side={'- Posts'} heading={'Thoughts & Posts'} posts={posts} categories={tags}/>
+            />
+            <Posts heading={blog.heading} posts={posts} categories={tags}/>
             <Donations heading={charities.title}
                        intro={charities.intro}
                        charities={charities.charities}/>
@@ -73,19 +72,12 @@ interface IndexPageTemplateProps {
         heading: string;
         values: { image: Image | string; text: string }[];
     };
-    featuredPost: {
-        id: string;
-        html: string;
-        fields: {
-            slug: string
-        }
-        frontmatter: {
-            date: string;
-            title: string;
-            featuredimage: Image | string;
-            description: string;
-            tags: string[];
-        }
+    aboutBlog: {
+        heading: string;
+        text: string;
+    };
+    blog: {
+        heading: string;
     };
     posts: {
         node: {
@@ -125,7 +117,8 @@ const IndexPage = ({data}: IndexPageProps) => {
                 subheading={frontmatter.subheading}
                 mainpitch={frontmatter.mainpitch}
                 mission={frontmatter.mission}
-                featuredPost={featuredPost}
+                aboutBlog={frontmatter.aboutBlog}
+                blog={frontmatter.blog}
                 posts={posts}
                 charities={mappedCharities}
             />
@@ -166,6 +159,13 @@ interface IndexPageProps {
                     side: string;
                     heading: string;
                 }
+                aboutBlog: {
+                    heading: string;
+                    text: string;
+                };
+                blog: {
+                    heading: string;
+                };
                 charities: {
                     charities: { image: Image | string; description: string, name: string, url: string }[];
                     title: string;
@@ -257,6 +257,20 @@ export const pageQuery = graphql`
               }
             }
           }
+        }
+        aboutBlog {
+          heading
+          text
+          image {
+             childImageSharp {
+               fluid(maxWidth: 2048, quality: 80) {
+                 ...GatsbyImageSharpFluid
+               }
+             }
+           }
+        }
+        blog {
+          heading
         }
         charities {
             intro

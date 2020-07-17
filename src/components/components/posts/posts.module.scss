@@ -1,7 +1,6 @@
 @import "../../../styles/breakpoints";
 @import "../../../styles/variables";
 
-
 .top {
   margin: 50px 0;
   display: flex;
@@ -10,10 +9,11 @@
     flex-direction: row;
   }
   &-left {
-    padding-left: 15px;
+    padding-left: 30px;
     width: 100%;
     @include respond-to($gt-sm) {
       width: 50%;
+      padding-left: 50px;
       padding-right: 15%;
     }
   }
@@ -59,5 +59,13 @@
     flex-wrap: wrap;
     align-items: normal;
     flex-direction: row;
+  }
+}
+
+.fullWidth {
+  width: 100%;
+  &-container {
+    display: block;
+    margin: 50px 0;
   }
 }

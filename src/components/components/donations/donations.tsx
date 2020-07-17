@@ -20,8 +20,10 @@ const Donations = ({heading = '', intro = '', charities = []}: PropsWithoutRef<D
     return (
         <>
             <div className={styles.donationsContainer}>
-                <h1>{heading}</h1>
-                <p>{intro}</p>
+                <div className={styles.donationsIntro}>
+                    <h1>{heading}</h1>
+                    <p>{intro}</p>
+                </div>
                 <div className={styles.donations}>
                     <div className={styles.donationsSelectionCurrent}>
                         <h2>{currentSelection.name}</h2>

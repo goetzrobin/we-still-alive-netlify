@@ -1,11 +1,18 @@
 @import "../../../styles/variables";
+@import "../../../styles/breakpoints";
 
 .main-image {
-  z-index: -1;
-  object-fit: cover;
-  object-position: bottom;
-  max-height: 100vh;
-  overflow: hidden;
+  &-container {
+    z-index: -1;
+    object-fit: cover;
+    object-position: bottom;
+    max-height: 100vh;
+    overflow: hidden;
+  }
+  height: 100vh;
+  @include respond-to($gt-sm) {
+    height: initial;
+  }
 }
 
 .main-content {
@@ -13,6 +20,7 @@
   max-width: 1500px;
   padding: 10px 10px 200px 10px;
   min-height: calc(100vh - ( #{$header-height} + #{$footer-height}));
+  position: relative;
 }
 
 body {

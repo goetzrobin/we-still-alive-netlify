@@ -1,5 +1,6 @@
 export const donations: string;
 export const donationsContainer: string;
+export const donationsIntro: string;
 export const donationsSelection: string;
 export const donationsSelectionCurrent: string;
 export const selection: string;

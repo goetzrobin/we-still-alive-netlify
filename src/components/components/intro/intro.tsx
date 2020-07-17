@@ -22,7 +22,6 @@ interface IntroProps {
 const Intro = (props: PropsWithChildren<IntroProps>) => {
     return (
         <div className={styles.intro}>
-            {props.title ? <h1 className={props.mainTitle ? styles.mainTitle : styles.textHeading}>{props.title}</h1> : null}
             <div className={styles.introContainer}>
                 <div className={!props.imageFluid ? styles.bigGraphicWrapper : styles.bigImageWrapper}>
                     {!props.imageFluid ?
