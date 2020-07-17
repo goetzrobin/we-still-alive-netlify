@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Science in Romantic Love "
-date: 2020-06-29T10:57:10.205Z
+date: 2020-07-17T06:37:37.635Z
 description: Although writers and philosophers have been in search, and perhaps
   found, for longer periods the definition and meaning of love, in recent years,
   other fields of study have stepped in to try to explain the hidden secret of
