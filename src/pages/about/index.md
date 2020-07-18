@@ -11,7 +11,7 @@ After about two months spent in Nairobi working in a private clinic in central K
 So, I started -WeStillAlive- to share personal experiences, such as the one in Nairobi, and facts, such as interesting topics in scholastic subjects, that have companied me throughout my studies at TJU, maintaining a global mindset with an emphasis in science and medicine.
 In summary, with -WeStillAlive-, I want to share the content of actuality and familiarity giving a scientific point of view to well-understood subjects let sometimes lay into superficiality. My goal is to create a pleasant atmosphere in which one person's interest and curiosity can come meet science and its educative objective. With that, I want to engage people and science from a more global perspective, a place to place and approach that goes from Nairobi to Italy back to Philadelphia where I currently study.
 -Westillalive- is a charity-leaned website whose intentions are to involve many interested-in-science individuals to devote their attention to help grow a better sanitation system in the area of Kawangware, Nairobi, Kenya.
-I truly believe that world thought science needs to come together giving a broader approach that can additionally come together for the benefit of one public healthcare community, to help developing areas to fight diseases that still threaten their societies.
+I truly believe that the Entire world, broadly considered, through science needs to come together for the benefit of One public healthcare community so to help developing areas to fight curable diseases still present in their community.
 
 ### Michele Ganz - the Author
 
