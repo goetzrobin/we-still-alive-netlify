@@ -29,10 +29,15 @@ mission:
       text: "Fund-raising "
 aboutBlog:
   heading: About the blog
-  text: Test test.We Still Alive is a charity-intended website and foundation that
-    promotes the interest and mission to help the area of Kawangware, Kenya, to
-    get better sanitation.
-  image: /img/cc.jpg
+  text: "The articles that will be posted on this website regularly are a chance
+    to the readers to expand their curiosity, to embrace a new way of
+    approaching commonality of familiar events that not always find space to
+    simple answers, and to see science as an educator with interests and
+    satisfactions. The blog aims to involve readers to agree, dispute, engage
+    and question the content of science with the writer (Michele) to go to share
+    the common objective of Helping the unmoving needs required in developing
+    populations. Let us debate with science and agree for Helping others. "
+  image: /img/clothes.jpg
 indexBlog:
   heading: Thoughts & Posts
 charities:
