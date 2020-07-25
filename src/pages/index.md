@@ -42,7 +42,7 @@ indexBlog:
   heading: Thoughts & Posts
 charities:
   title: To Who We Aim to Donate
-  intro: "We Believe "
+  intro: "We Believe in:"
   charities:
     - image: /img/cc.jpg
       name: "Sanitation - Sewers System and Toilets Quality Enhancement "
