@@ -37,7 +37,7 @@ aboutBlog:
     and question the content of science with the writer (Michele) to go to share
     the common objective of Helping the unmoving needs required in developing
     populations. Let us debate with science and agree for Helping others. "
-  image: /img/clothes.jpg
+  image: /img/ee.jpg
 indexBlog:
   heading: Thoughts & Posts
 charities:
