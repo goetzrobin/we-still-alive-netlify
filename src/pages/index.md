@@ -51,7 +51,7 @@ charities:
         ### Kawangware: To Help The Rooted Need of an Impoverished Sanitation
 
 
-        Kawangware, a residential area in Nairobi, Kenya, is to knowledge and experience a place of fortune and uncertainty.
+        Kawangware, a residential area in Nairobi, Kenya, is to knowledge and experience a place of both fortune and sadness.
 
 
         The population living in Kawangware, with studied and supported evidence, seems to be particularly prone to be successful in sports related to high velocities, such as long-distance run competitions. Genetics and environmental (diet) factors present in this area play an important role in determining the success of these athletes. Olympians but also marathon famous winners in running events are known to be coming from this area, indeed.
@@ -60,9 +60,9 @@ charities:
         By reminding me of what seems to be unique and astonishing of this population, however, I have to unwillingly say that this attraction shades into uncertainty and sadness also. Kawangware is indeed one of the most impoverished locations of the whole African continent. Sanitation in this area is highly inadequate and hardly meets the basic standards of hygiene and water security.
 
 
-        Kawangware is to date the location where WeStillAlive is mostly prone to consider to help and sustainably provide support to the population in need. Toilets and sewering systems are required and the difficult solution to the issue, as well as improving water scarcity and coverage. 
+        Kawangware is to date the location where WeStillAlive is mostly prone to consider to help and provide support to water and sanitaton (toilets and sewering systems) services to improve monitoring infrastructures quality and operational services to water purity and sustainability. Promoting constumers demand and infrastructures renowation such as old water pipes, are key solution but also challenges to the issue which requires careful attention. 
 
 
-        Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility.
+        Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility. Lets try to help.
   url: https://donate.doctorswithoutborders.org/onetime.cfm
 ---
