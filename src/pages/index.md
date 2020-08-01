@@ -14,16 +14,16 @@ mainpitch:
     I seek solid reasons to better explain the beauty of the every-day
     unpredictability of life through scientific-related evidence that as well
     those arise from the studies at Thomas Jefferson University and the African
-    experience in Kikuyu, Kenya. As well, this project is a place useful to me
-    to overcome the difficulties of studying material not yet enjoyed at the
+    experience in Kawangware, Kenya. As well, this project is a place useful to
+    me to overcome the difficulties of studying material not yet enjoyed at the
     university level. "
 mission:
   side: Objectives
   heading: We Still Alive is a charity-intended website and foundation that
     promotes the interest and mission to help the area of Kawangware, Kenya, to
-    get better sanitation – sewers system and toilets – so to shorten the span
-    of common infections, accelerate recovery, prevent early death, and extend
-    this population lifespan.
+    get better sanitation – sewers system and toilets – and provide improved
+    water services so to shorten the span of common infections, accelerate
+    recovery, prevent early death, and extend this population lifespan.
   values:
     - image: /img/mm.jpg
       text: "Fund-raising "
@@ -48,7 +48,7 @@ charities:
       name: "Sanitation - Sewers System and Toilets Quality Enhancement "
       url: https://www.msf.org/donate
       description: >-
-        ### Kawangware: To Help The Rooted Need of an Impoverished Sanitation  
+        ### Kawangware: To Help The Rooted Need of an Impoverished Sanitation
 
 
         Kawangware, a residential area in Nairobi, Kenya, is to knowledge and experience a place of fortune and uncertainty.
@@ -60,9 +60,9 @@ charities:
         By reminding me of what seems to be unique and astonishing of this population, however, I have to unwillingly say that this attraction shades into uncertainty and sadness also. Kawangware is indeed one of the most impoverished locations of the whole African continent. Sanitation in this area is highly inadequate and hardly meets the basic standards of hygiene and water security.
 
 
-        Kawangware is to date the location where WeStillAlive is mostly prone to consider to help and sustainably provide support to the population in need. Toilets and sewering systems are required and the difficult solution to the issue.
+        Kawangware is to date the location where WeStillAlive is mostly prone to consider to help and sustainably provide support to the population in need. Toilets and sewering systems are required and the difficult solution to the issue, as well as improving water scarcity and coverage. 
 
 
-        Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation, change is no more a need but a possibility, and perhaps more beauty would be seen instead and more competition could win again challenges no more sport-related but of living concerns.
+        Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility.
   url: https://donate.doctorswithoutborders.org/onetime.cfm
 ---
