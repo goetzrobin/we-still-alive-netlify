@@ -64,5 +64,6 @@ charities:
 
 
         Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility. Lets try to help.
-  url: https://donate.doctorswithoutborders.org/onetime.cfm
+  url: https://donate.doctorswithoutborders.org/onetime.cfm,
+    https://www.wsup.com/donate/
 ---
