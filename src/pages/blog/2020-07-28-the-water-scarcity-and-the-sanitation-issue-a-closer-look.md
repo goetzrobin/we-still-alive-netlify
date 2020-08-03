@@ -10,7 +10,7 @@ description: In Kawangware, a western area outside of Nairobi, Kenya, water, and
   health crisis in the developing world, particularly in locations of the
   African continent.
 featuredpost: true
-featuredimage: /img/l.jp2
+featuredimage: /img/l.jpg
 tags:
   - Water
   - Sanitation
