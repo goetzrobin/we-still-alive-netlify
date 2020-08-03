@@ -60,9 +60,9 @@ charities:
         By reminding me of what seems to be unique and astonishing of this population, however, I have to unwillingly say that this attraction shades into uncertainty and sadness also. Kawangware is indeed one of the most impoverished locations of the whole African continent. Sanitation in this area is highly inadequate and hardly meets the basic standards of hygiene and water security.
 
 
-        Kawangware is to date the location where WeStillAlive is mostly prone to consider to help and provide support to water and sanitaton (toilets and sewering systems) services to improve monitoring infrastructures quality and operational services to water purity and sustainability. Promoting constumers demand and infrastructures renowation such as old water pipes, are key solution but also challenges to the issue which requires careful attention. 
+        Kawangware is to date the location where *WeStillAlive* is mostly prone to consider to help and provide support to water and sanitaton (toilets and sewering systems) services to improve monitoring infrastructures quality and operational services to water purity and sustainability. Promoting costumers demand and infrastructures renowation such as old water pipes, are key solution but also challenges to the issue which requires careful attention. 
 
 
-        Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility. Lets try to help.
+        Besides its beauty and uniqueness, this region needs change and change needs intentions. *WeStillAlive* considers population health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility. Lets try to help.
   url: https://www.wsup.com/donate/
 ---
