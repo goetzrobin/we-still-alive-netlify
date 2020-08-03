@@ -44,7 +44,7 @@ charities:
   title: To Who We Aim to Donate
   intro: "We Believe in:"
   charities:
-    - image: /img/cc.jpg
+    - image: /img/lll.jpeg
       name: "Sanitation - Sewers System and Toilets Quality Enhancement "
       url: https://www.msf.org/donate
       description: >-
@@ -64,6 +64,5 @@ charities:
 
 
         Besides its beauty and uniqueness, this region needs change and change needs intentions. WeStillAlive considers population health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility. Lets try to help.
-  url: https://donate.doctorswithoutborders.org/onetime.cfm,
-    https://www.wsup.com/donate/
+  url: https://www.wsup.com/donate/
 ---
