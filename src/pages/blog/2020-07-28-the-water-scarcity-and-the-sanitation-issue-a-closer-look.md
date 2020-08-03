@@ -54,13 +54,9 @@ Water security and sanitation in the developing world still cause millions of mi
 
 The area of Kawangware needs particular attention, as well as many other regions all over the world affected by this same phenomenon, as there can be chances for families and mothers particularly to see their child live longer than them. However, about 5000 children every day do not see their mothers growing older, and their mums indeed still do not believe they could see their child passing away before them.
 
-
-
 Michele Ganz
 
-
-
-References
+**References**
 
 \[1] World Health Organization (WHO). *Diarrhoeal disease*. Retrieved July 28, 2020, from<https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease>
 
