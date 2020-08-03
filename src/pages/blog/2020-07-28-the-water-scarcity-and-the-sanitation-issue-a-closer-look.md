@@ -58,12 +58,12 @@ Michele Ganz
 
 **References**
 
-\[1] World Health Organization (WHO). *Diarrhoeal disease*. Retrieved July 28, 2020, from<https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease>
+1. World Health Organization (WHO). *Diarrhoeal disease*. Retrieved July 28, 2020, from<https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease>
 
-\[2] UNICEF. *Global Water and Sanitation Assessment 2000 Report.*<https://www.unicef.org/wash/files/gafull.pdf>
+2. UNICEF. *Global Water and Sanitation Assessment 2000 Report.*<https://www.unicef.org/wash/files/gafull.pdf>
 
-\[3] Institute of Medicine (US)*Roundtable on Environmental Health Sciences, Research, & Medicine*, A. (1970, January 01). Achieving Water and Sanitation Services for Health in Developing Countries. Retrieved July 28, 2020, from<https://www.ncbi.nlm.nih.gov/books/NBK50770/>
+3. Institute of Medicine (US)*Roundtable on Environmental Health Sciences, Research, & Medicine*, A. (1970, January 01). Achieving Water and Sanitation Services for Health in Developing Countries. Retrieved July 28, 2020, from<https://www.ncbi.nlm.nih.gov/books/NBK50770/>
 
-\[4] World Health Organization (WHO). *A Guide to the Development of on-Site Sanitation*.Retrieved July 28, 2020, from<https://www.who.int/docstore/water_sanitation_health/onsitesan/ch03.htm>
+4. World Health Organization (WHO). *A Guide to the Development of on-Site Sanitation*.Retrieved July 28, 2020, from<https://www.who.int/docstore/water_sanitation_health/onsitesan/ch03.htm>
 
-\[5] Smil, V. (2019). *Growth: From microorganisms to megacities*. Cambridge, Massachusetts; London, England: The MIT Press.
+5. Smil, V. (2019). *Growth: From microorganisms to megacities*. Cambridge, Massachusetts; London, England: The MIT Press.
