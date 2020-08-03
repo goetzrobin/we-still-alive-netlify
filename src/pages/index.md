@@ -15,8 +15,8 @@ mainpitch:
     unpredictability of life through scientific-related evidence that as well
     those arise from the studies at Thomas Jefferson University and the African
     experience in Kawangware, Kenya. As well, this project is a place useful to
-    me to overcome the difficulties of studying material not yet enjoyed at the
-    university level. "
+    me to overcome the difficulties of studying various and at times
+    overwhelming material at the university level. "
 mission:
   side: Objectives
   heading: We Still Alive is a charity-intended website and foundation that
