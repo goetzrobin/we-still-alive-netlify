@@ -78,16 +78,16 @@ Michele Ganz
 
 **References**
 
-\[1] Fisher, H. E., Xu, X., Aron, A., & Brown, L. L. (2016). Intense, Passionate, Romantic Love: A Natural Addiction? How the Fields That Investigate Romance and Substance Abuse Can Inform Each Other. Frontiers in psychology, 7, 687. https://doi.org/10.3389/fpsyg.2016.00687
+1. Fisher, H. E., Xu, X., Aron, A., & Brown, L. L. (2016). Intense, Passionate, Romantic Love: A Natural Addiction? How the Fields That Investigate Romance and Substance Abuse Can Inform Each Other. Frontiers in psychology, 7, 687. https://doi.org/10.3389/fpsyg.2016.00687
 
-\[2] Seshadri K. G. (2016). The neuroendocrinology of love. Indian journal of endocrinology and metabolism, 20(4), 558–563. https://doi.org/10.4103/2230-8210.183479
+2. Seshadri K. G. (2016). The neuroendocrinology of love. Indian journal of endocrinology and metabolism, 20(4), 558–563. https://doi.org/10.4103/2230-8210.183479
 
-\[3] Christian, B. (2017). What is love? Science kinda has the answer. WIRED. https://www.wired.co.uk/article/what-is-love
+3. Christian, B. (2017). What is love? Science kinda has the answer. WIRED. https://www.wired.co.uk/article/what-is-love
 
-\[4] Smith, S. M., & Vale, W. W. (2006). The role of the hypothalamic-pituitary-adrenal axis in neuroendocrine responses to stress. Dialogues in clinical neuroscience, 8(4), 383–395.
+4. Smith, S. M., & Vale, W. W. (2006). The role of the hypothalamic-pituitary-adrenal axis in neuroendocrine responses to stress. Dialogues in clinical neuroscience, 8(4), 383–395.
 
-\[5] Powell, A. (2019). Scientists find a few surprises in their study of love. https://news.harvard.edu/gazette/story/2018/02/scientists-find-a-few-surprises-in-their-study-of-love/.
+5. Powell, A. (2019). Scientists find a few surprises in their study of love. https://news.harvard.edu/gazette/story/2018/02/scientists-find-a-few-surprises-in-their-study-of-love/.
 
-\[6] Love T. M. (2014). Oxytocin, motivation, and the role of dopamine. Pharmacology, biochemistry, and behavior, 119, 49–60. https://doi.org/10.1016/j.pbb.2013.06.011
+6. Love T. M. (2014). Oxytocin, motivation, and the role of dopamine. Pharmacology, biochemistry, and behavior, 119, 49–60. https://doi.org/10.1016/j.pbb.2013.06.011
 
-\[7] Carter C. S. (2017). The Oxytocin-Vasopressin Pathway in the Context of Love and Fear. Frontiers in endocrinology, 8, 356. https://doi.org/10.3389/fendo.2017.00356
+7. Carter C. S. (2017). The Oxytocin-Vasopressin Pathway in the Context of Love and Fear. Frontiers in endocrinology, 8, 356. https://doi.org/10.3389/fendo.2017.00356
