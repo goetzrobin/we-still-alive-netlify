@@ -48,11 +48,14 @@ charities:
   intro: >-
     We Believe in:
 
-    - Sustainable infrastructure: local water distribution security, efficiency, and renovated (repair leaks in water pipes before and during distribution)
+
+    - Sustainable infrastructures: local water distribution, security, and renovated water pipes for efficient distribution
+
 
     - Local ecological toilets replacement: building capacity in human resources 
 
-    - Additional research for sanitation and water in developing countries 
+
+    - Additional research for sanitation and water in the area of Kawangware, Kenya
   charities:
     - image: /img/lll.jpeg
       name: "Kawangware: The Sanitation and Water Services "
