@@ -30,7 +30,7 @@ mission:
     - image: /img/mm.jpg
       text: "Fund-raising "
 aboutBlog:
-  heading: About the blog
+  heading: About the Blog
   text: The articles that will be posted on this website regularly are a chance to
     the readers to expand their curiosity, to embrace a new way of approaching
     commonality of familiar events that not always find space to simple answers,
