@@ -45,10 +45,11 @@ charities:
   intro: "We Believe in:"
   charities:
     - image: /img/lll.jpeg
-      name: "Sanitation - Sewers System and Toilets Quality Enhancement "
+      name: "Kawangware: Sanitation, Sewers System and Toilets, and Water Services "
       url: https://www.msf.org/donate
       description: >-
-        ### Kawangware: To Help The Rooted Need of an Impoverished Sanitation
+        ### Sustainable Services of Faces Disposal and Water Quality: A Crucial
+        Change 
 
 
         Kawangware, a residential area in Nairobi, Kenya, is to knowledge and experience a place of both fortune and sadness.
