@@ -10,12 +10,13 @@ mainpitch:
     image: /img/m.jpg
   description: "I am an undergraduate, Pre-Medical student at Thomas Jefferson
     University, the home of Sidney Kimmel Medical College, with an interest in
-    medicine and hopes of becoming a cardiothoracic surgeon. With WeStillAlive,
-    I seek solid reasons to better explain the beauty of the every-day
-    unpredictability of life through scientific-related evidence that as well
-    those arise from the studies at Thomas Jefferson University and the African
-    experience in Kawangware, Kenya. As well, this project is a place useful to
-    me to overcome the difficulties of studying various and at times
+    medicine and hopes of continuing my career for the benefit of the
+    Philadelphia community and the one across the ocean (Italy and Kenya). With
+    WeStillAlive, I seek solid reasons to better explain the beauty of the
+    every-day unpredictability of life through scientific-related evidence that
+    as well those arise from the studies at Thomas Jefferson University and the
+    African experience in Kawangware, Kenya. As well, this project is a place
+    useful to me to overcome the difficulties of studying various and at times
     overwhelming material at the university level. "
 mission:
   side: Objectives
