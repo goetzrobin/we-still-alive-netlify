@@ -19,12 +19,12 @@ mainpitch:
     overwhelming material at the university level. "
 mission:
   side: Objectives
-  heading: We Still Alive is a charity-intended website and foundation that
-    promotes the interest and mission to help the area of Kawangware, Kenya, to
-    get better sanitation – sewers system and toilets – and provide improved
-    water services so to shorten the span of common infections, accelerate
-    recovery, prevent early death, and extend this population lifespan of
-    children under the age of five.
+  heading: We Still Alive is a charity-intended website and mom-profit
+    organization that promotes the interest and mission to help the area of
+    Kawangware, Kenya, to get better sanitation – sewers system and toilets –
+    and provide improved water services so to shorten the span of common
+    infections, accelerate recovery, prevent early death, and extend this
+    population lifespan of children under the age of five.
   values:
     - image: /img/mm.jpg
       text: "Fund-raising "
