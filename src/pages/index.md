@@ -46,7 +46,7 @@ charities:
   intro: >-
     We Believe in:
 
-    - Sustainable infrastructure: local water distribution security, efficiency, and renovated (repair leaks in water pipes prior and during distribution)
+    - Sustainable infrastructure: local water distribution security, efficiency, and renovated (repair leaks in water pipes before and during distribution)
 
     - Local ecological toilets replacement: building capacity in human resources 
 
