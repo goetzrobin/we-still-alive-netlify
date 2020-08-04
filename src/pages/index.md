@@ -43,20 +43,27 @@ indexBlog:
   heading: Thoughts & Posts
 charities:
   title: To Who We Aim to Donate
-  intro: "We Believe in:"
+  intro: >-
+    We Believe in:
+
+    - Sustainable infrastructure: local water distribution security, efficiency, and renovated (repair leaks in water pipes prior and during distribution)
+
+    - Local ecological toilets replacement: building capacity in human resources 
+
+    - Additional research for sanitation and water in developing countries 
   charities:
     - image: /img/lll.jpeg
       name: "Kawangware: The Sanitation and Water Services "
       url: https://www.msf.org/donate
       description: >-
         ### Sustainable Services of Faces Disposal and Water Quality: A Crucial
-        Change 
+        Change
 
 
         Kawangware, a residential area in Nairobi, Kenya, is to knowledge and experience a place of both fortune and sadness.
 
 
-        The population living in Kawangware, with studied and supported evidence, seems to be particularly prone to be successful in sports related to high velocities, such as long-distance run competitions. Genetics and environmental (diet) factors present in this area play an important role in determining the success of these athletes. Olympians but also marathon famous winners in running events are known to be coming from this area, indeed.                                       By reminding me of what seems to be unique and astonishing of this population, however, I have to unwillingly say that this attraction shades into uncertainty and sadness also. Kawangware is indeed one of the most impoverished locations of the whole African continent. Sanitation in this area is highly inadequate and hardly meets the basic standards of hygiene and water security.  Kawangware is to date the location where *WeStillAlive*is mostly prone to consider to help and provide support to water and sanitation (toilets and sewering systems) services to improve monitoring infrastructures quality and operational services to water purity and sustainability for toilets operative success. Promoting consumer demand and infrastructure renovation such as old water pipes and feces disposal settings, are key solutions but also challenges to the issue which requires careful attention. *WeStillAlive*aims to give this attention and share the challenges and the results obtained with hard work, dedication, and perseverance. The targeted population for this fund-raising campaign and foundation are particular children living in orphanages in the area of Kawangware. It is of crucial importance to them to provide purified water and enough hygiene and health care security as they are most prone to suffer from diseases (diarrhea) caused by water dirtiness and contamination of animal and human faces.
+        The population living in Kawangware, with studied and supported evidence, seems to be particularly prone to be successful in sports related to high velocities, such as long-distance run competitions. Genetics and environmental (diet) factors present in this area play an important role in determining the success of these athletes. Olympians but also marathon famous winners in running events are known to be coming from this area, indeed.                                       By reminding me of what seems to be unique and astonishing of this population, however, I have to unwillingly say that this attraction shades into uncertainty and sadness also. Kawangware is indeed one of the most impoverished locations of the whole African continent. Sanitation in this area is highly inadequate and hardly meets the basic standards of hygiene and water security.  Kawangware is to date the location where *WeStillAlive*is mostly prone to consider to help and provide support to water and sanitation (toilets and sewering systems) services to improve monitoring infrastructures quality and operational services to water purity and sustainability for toilets operative success. Promoting consumer demand and infrastructure renovation such as old water pipes and feces disposal settings, are key solutions but also challenges to the issue which requires careful attention. *WeStillAlive*aims to give this attention and share the challenges and the results obtained with hard work, dedication, and perseverance. The targeted population for this fund-raising campaign and foundation are particular children living in orphanages in the area of Kawangware. It is of crucial importance to them to provide purified water and enough hygiene and health care security as they are most prone to suffer from diseases (diarrheal disease) caused by water dirtiness and contamination of animal and human faces.
 
 
         Besides its beauty and uniqueness of talented running athletes, this region needs change and change needs intentions. *WeStillAlive* considers children's health of this location important, and through improvement in sanitation and water supply, change is no more a need but a possibility.
