@@ -45,7 +45,7 @@ charities:
   intro: "We Believe in:"
   charities:
     - image: /img/lll.jpeg
-      name: "Kawangware: Sanitation, Sewers System and Toilets, and Water Services "
+      name: "Kawangware: The Sanitation and Water Services "
       url: https://www.msf.org/donate
       description: >-
         ### Sustainable Services of Faces Disposal and Water Quality: A Crucial
