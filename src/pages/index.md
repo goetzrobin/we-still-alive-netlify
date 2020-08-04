@@ -12,15 +12,15 @@ mainpitch:
     University, the home of Sidney Kimmel Medical College, with an interest in
     medicine and hopes of continuing my career for the benefit of the
     Philadelphia community and the one across the ocean (Italy and Kenya). With
-    WeStillAlive, I seek solid reasons to better explain the beauty of the
-    every-day unpredictability of life through scientific-related evidence that
-    as well those arise from the studies at Thomas Jefferson University and the
-    African experience in Kawangware, Kenya. As well, this project is a place
-    useful to me to overcome the difficulties of studying various and at times
-    overwhelming material at the university level. "
+    WeStillAlive - The Blog-, I seek solid reasons to better explain the beauty
+    of the every-day unpredictability of life through scientific-related
+    evidence that as well those arise from the studies at Thomas Jefferson
+    University and the African experience in Kawangware, Kenya. As well, this
+    project is a place useful to me to overcome the difficulties of studying
+    various and at times overwhelming material at the university level. "
 mission:
   side: Objectives
-  heading: We Still Alive is a charity-intended website and mom-profit
+  heading: We Still Alive is a charity-intended website and non-profit
     organization that promotes the interest and mission to help the area of
     Kawangware, Kenya, to get better sanitation – sewers system and toilets –
     and provide improved water services so to shorten the span of common
