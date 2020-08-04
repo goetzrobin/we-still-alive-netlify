@@ -24,8 +24,8 @@ mission:
     organization that promotes the interest and mission to help the area of
     Kawangware, Kenya, to get better sanitation – sewers system and toilets –
     and provide improved water services so to shorten the span of common
-    infections, accelerate recovery, prevent early death, and extend this
-    population lifespan of children under the age of five.
+    infections, accelerate recovery, prevent early death, and extend population
+    lifespan of children under the age of five.
   values:
     - image: /img/mm.jpg
       text: "Fund-raising "
