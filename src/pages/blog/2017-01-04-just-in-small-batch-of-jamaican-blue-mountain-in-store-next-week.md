@@ -7,7 +7,7 @@ description: The genotype ACTN3 known for the genetic relation to high athletic
   the α-actinin-3 (1,2,3), gave a reason for this ethnicity to be part of a
   bigger picture than one underestimated country downfall.
 featuredpost: true
-featuredimage: /img/bb.jpg
+featuredimage: /img/oppp.jpeg
 tags:
   - Genetics
   - Sport
