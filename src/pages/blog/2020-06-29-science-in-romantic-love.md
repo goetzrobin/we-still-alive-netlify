@@ -16,9 +16,9 @@ tags:
   - Hormones
   - Proteins
 ---
-Elizabeth Barrett Browning, one of the major English poets of the 1800s, about love once wrote (Sonnet 43):
+*Elizabeth Barrett Browning, one of the major English poets of the 1800s, about love once wrote (Sonnet 43):*
 
-How do I love thee? Let me count the ways.
+*How do I love thee? Let me count the ways.
 I love thee to the depth and breadth and height 
 My soul can reach, when feeling out of sight 
 For the ends of being and ideal grace.
@@ -31,14 +31,10 @@ In my old griefs, and with my childhood’s faith. 
 I love thee with a love I seemed to lose
 With my lost saints. I love thee with the breath, 
 Smiles, tears, of all my life; and, if God choose, 
-I shall but love thee better after death. 
+I shall but love thee better after death.* 
 
-* Elizabeth Barrett Browning
-  Sonnets from the Portuguese (Sonnet 43)
-
-
-
-
+* *Elizabeth Barrett Browning
+  Sonnets from the Portuguese (Sonnet 43)* 
 
 Romantic Love. For many decades, writers, poets, philosophers, and artists of any genre (in music, films, and theaters) have tried to explore romantic love to give an idea to which one individual (a lover, a partner) could rely upon to understand, describe, and give answers to the emotions perceived when transmitted down deeply into the whole experience of obsession, pleasure, arousal, Romantic Love. 
 From the amour Courtois, the comprehension of passionate attractions, sexual desire, and even more, developed to go to flow into a myriad of modern love-related concepts, psychological understandings, including therapies and new ideas of what to love means and is about. 
