@@ -11,12 +11,11 @@ description: "The connection of music to human ancestors and primates remains a
 featuredpost: true
 featuredimage: /img/ooo.jpg
 tags:
-  - music
-  - emotions
-  - feelings
-  - brain
-  - neurology
-  - endocrinology
+  - Therapy
+  - Music
+  - Emotions
+  - Neurology
+  - Endocrinology
 ---
 “*As I come across music, I come across Charles Darwin. What I have taking placein my ears going into my mind makes the reading be just a small piece of surrounding besides my opened window and trees outside. And the sound still endows shades as well as sun rays of pleasant and unpleasant emotions. When Darwin sustained that “music was known and understood before words were spoken” I thought that a reason I could feel this happiness running up my body, andat this point, couldnot be provoked by much more than seven notes played mysteriously together. In muchvarying andcontinuous patterns that after 40 000 years still find simplicity in many persons’ physical gestureand mental emotions, music is beauty, an ignite of intellect and moral activitythat just pushesbiological factors to take place. May be music a simplistic cultural product or a leisure activity to some individuals, perhaps? Evolution to growth of people hearing music as well as the feeling of it perceived on a work out trip may respond to this question differently thanmany of you.”*
 
