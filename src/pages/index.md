@@ -34,12 +34,12 @@ aboutBlog:
   text: The articles that will be posted on this website regularly are a chance to
     the readers to expand their curiosity, to embrace a new way of approaching
     commonality of familiar events that not always find space to simple answers,
-    and to see science as an educator with interests and satisfactions. The blog
-    aims to involve readers to agree, dispute, and question the content of
-    science with the writer to go to share the common objective of helping the
-    unmoving needs required in developing populations. It is a chance to raise,
-    together, the money necessary to support the mission that WeStillAlive
-    believes in.
+    and to see science as an educator with interests and in one particular
+    developing area in Kenya. The blog aims to involve readers to agree,
+    dispute, and question the content of science with the writer to go to share
+    the common objective of helping the unmoving needs required in developing
+    populations. It is a chance to raise, together, the money necessary to
+    support the mission that WeStillAlive believes in.
   image: /img/ee.jpg
 indexBlog:
   heading: Thoughts & Posts
