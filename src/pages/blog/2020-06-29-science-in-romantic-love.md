@@ -12,9 +12,9 @@ featuredpost: true
 featuredimage: /img/mm.jpeg
 tags:
   - Love
-  - Science
-  - Hormones
-  - Proteins
+  - Endocrinology
+  - Neuroscience
+  - Biochemistry
 ---
 *Elizabeth Barrett Browning, one of the major English poets of the 1800s, about love once wrote (Sonnet 43):*
 
