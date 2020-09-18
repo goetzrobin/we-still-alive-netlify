@@ -12,7 +12,7 @@ description: >-
 
   It is intended here to address the mechanism of CQ applied to the treatment of the malaria disease and to give clarity to the developing research of CQ used in the fight against COVID-19.
 featuredpost: true
-featuredimage: /img/12.png
+featuredimage: /img/twelve.png
 tags:
   - Therapy
   - Antimalarial efficacy

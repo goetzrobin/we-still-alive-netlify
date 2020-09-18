@@ -33,8 +33,18 @@ export const IndexPageTemplate = ({
         values: [...values, current.text]
     }), accumulator);
 
+
     let tags: string[] = posts.reduce((accTags: string[], post) => [...accTags, ...post.node.frontmatter.tags], []);
-    tags = _.uniq(tags);
+    console.log(tags)
+    let defaultDictionary: {[key: string]: number} = {};
+    let tagDictionary = tags.reduce((count, word) => {
+      count[word] = (count[word] || 0) + 1;
+      return count;}, defaultDictionary);
+      console.log(tagDictionary)
+    let finalTags = Object.keys(tagDictionary)
+    .sort((key1, key2) => tagDictionary[key1] > tagDictionary[key2] ? -1 : 1)
+    .slice(0, 7);
+    console.log(finalTags)
     return (
         <>
             <SEO title={title}/>
@@ -53,7 +63,7 @@ export const IndexPageTemplate = ({
                 text={aboutBlog.text}
                 author={mainpitch.author}
             />
-            <Posts heading={blog.heading} posts={posts} categories={tags}/>
+            <Posts heading={blog.heading} posts={posts} categories={finalTags}/>
             <Donations heading={charities.title}
                        intro={charities.intro}
                        charities={charities.charities}/>
